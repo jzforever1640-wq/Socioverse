@@ -1,0 +1,182 @@
+[
+  {
+    "source_id": "phase18/GO_NO_GO_PHASE18.md",
+    "source_sha256": "0694ba1ae03f55b9b5cb55a97f1c5e592f6c2faa279fba021a4d1c50d6b0d69d",
+    "export_path": "docs/history/phase18/GO_NO_GO_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/MINIMAL_LLM_PILOT_PHASE18.md",
+    "source_sha256": "ff92b538b0273553b336cf275cf5616297b651548fb4ace47592a30315c65cf9",
+    "export_path": "docs/history/phase18/MINIMAL_LLM_PILOT_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/SCRIPTED_VALIDATION_REPORT.md",
+    "source_sha256": "055a5df5ff1d658c8d2c6988b8f0a8a5112489b065123ce5e39cf025bbc8d639",
+    "export_path": "docs/history/phase18/SCRIPTED_VALIDATION_REPORT.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/RESEARCHER_FINAL_REVIEW.md",
+    "source_sha256": "64d1bd11e31b950c228a25be8e4dee0f2b5661c023228cfdd2ff5ab9478c9048",
+    "export_path": "docs/history/phase18/RESEARCHER_FINAL_REVIEW.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/MATERIALS_V03_CANDIDATE.md",
+    "source_sha256": "e873cdcaabbbb968760da8fa32de9a7649cc611f81019adb086163cd4b2266ea",
+    "export_path": "docs/history/phase18/MATERIALS_V03_CANDIDATE.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/EXPERIMENT_CONTROL_MATRIX_PHASE18.md",
+    "source_sha256": "8f6a1939e6bf658b313577e23cbff609523b769ae6817561f213c4c12eed1e1f",
+    "export_path": "docs/history/phase18/EXPERIMENT_CONTROL_MATRIX_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/README_PHASE18.md",
+    "source_sha256": "ccfc447a442d9c0aebd3f2dd5616139b08fc153893b65436057770960341ab09",
+    "export_path": "docs/history/phase18/README_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/RESEARCHER_APPROVALS_PHASE18.md",
+    "source_sha256": "04ca0eecb672e80750d139460abc68641722df5fa755006ac0d211710b07dbc9",
+    "export_path": "docs/history/phase18/RESEARCHER_APPROVALS_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/MEASUREMENT_COMPATIBILITY_AUDIT.md",
+    "source_sha256": "b08ff86352ddd4295fbc7c2df24080756cf5fed452838833363c096a1bdb914b",
+    "export_path": "docs/history/phase18/MEASUREMENT_COMPATIBILITY_AUDIT.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/NATIVE_INTEGRATION_AUDIT_PHASE18.md",
+    "source_sha256": "97fcfcba9d89f3e42006efa8b2b8f11074d1c82b658ea12107c352cad8d4281a",
+    "export_path": "docs/history/phase18/NATIVE_INTEGRATION_AUDIT_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/MATERIAL_DIFF_AND_PROVENANCE.md",
+    "source_sha256": "1f0f13b885c62d69441addc377d2dad35180045e189d2217d7a4a60f3f795d07",
+    "export_path": "docs/history/phase18/MATERIAL_DIFF_AND_PROVENANCE.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/EXPERIMENT_MATRIX_UPDATED.md",
+    "source_sha256": "8f6a1939e6bf658b313577e23cbff609523b769ae6817561f213c4c12eed1e1f",
+    "export_path": "docs/history/phase18/EXPERIMENT_MATRIX_UPDATED.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/MEASUREMENT_ANALYSIS_PROTOCOL_PHASE18.md",
+    "source_sha256": "35d00a9be0259c1ce8bc92013bcce239ed8c4b42b6916a16b2270c7fa668529a",
+    "export_path": "docs/history/phase18/MEASUREMENT_ANALYSIS_PROTOCOL_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/POPULATION_MATERIAL_ACCEPTANCE_PHASE18.md",
+    "source_sha256": "1af3285215caccaf3a04b0b43ac9d842d7179271bcc63e39bce0294aeed785fa",
+    "export_path": "docs/history/phase18/POPULATION_MATERIAL_ACCEPTANCE_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/RESEARCHER_DECISIONS_B_FINAL.md",
+    "source_sha256": "885cfb7ef557897977102f7f17842e56f2ba9bbdb1a3a8e9af7b4897d55e80a2",
+    "export_path": "docs/history/phase18/RESEARCHER_DECISIONS_B_FINAL.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/GO_NO_GO_B_FINAL.md",
+    "source_sha256": "0694ba1ae03f55b9b5cb55a97f1c5e592f6c2faa279fba021a4d1c50d6b0d69d",
+    "export_path": "docs/history/phase18/GO_NO_GO_B_FINAL.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/SCRIPTED_RUN_PLAN_PHASE18.md",
+    "source_sha256": "29fa59091a08a07bb6bbf7134e48240b4a5e70a450ee3500ca4d7c06625e73e5",
+    "export_path": "docs/history/phase18/SCRIPTED_RUN_PLAN_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "phase18/versions/pre_B_FINAL_20261028/RESEARCHER_APPROVALS_PHASE18.md",
+    "source_sha256": "63e8f4663c0637275b3dfc47462a387c292bc1783cb83206472d9c1f56c9e1ff",
+    "export_path": "docs/history/phase18/versions/pre_B_FINAL_20261028/RESEARCHER_APPROVALS_PHASE18.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "p1-six/P1_MAJOR_PARITY_FINAL.md",
+    "source_sha256": "4b6afe21849737a91df74f66a56031441584935f1d29d8c70dce755c20b2f90c",
+    "export_path": null,
+    "status": "INDEX_ONLY_POTENTIALLY_RESTRICTED"
+  },
+  {
+    "source_id": "p1-six/P1_FINAL_TEXT_PROPOSED.md",
+    "source_sha256": "b8436f6650a1b7f75c59d8cf3bdb6ed30b02098b5b3f3c8e3048cb5518f455a2",
+    "export_path": "docs/history/p1-six/P1_FINAL_TEXT_PROPOSED.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "p1-six/P1_UNRESOLVED_CLAIMS.md",
+    "source_sha256": "3968c6545f7c1c69af7e548159f290e9351a212aeaa91c2334d2de25f4584bed",
+    "export_path": null,
+    "status": "INDEX_ONLY_POTENTIALLY_RESTRICTED"
+  },
+  {
+    "source_id": "p1-six/EJQ_REVISION_PROPOSAL.md",
+    "source_sha256": "9167a37417eb98a2febebf51c907a11f11744db957eef1124ffcae744cd049fc",
+    "export_path": null,
+    "status": "INDEX_ONLY_POTENTIALLY_RESTRICTED"
+  },
+  {
+    "source_id": "p1-six/README.md",
+    "source_sha256": "305a2e23c8b8209556fd52f6fa7773686606bee09cdf00af740814020bdc9f85",
+    "export_path": null,
+    "status": "INDEX_ONLY_POTENTIALLY_RESTRICTED"
+  },
+  {
+    "source_id": "p1-six/MODEL_CONTEXT_BUDGET_VALIDATION.md",
+    "source_sha256": "60ec92398c96cb9051170c4fb4a7e5ba744c453cec73021a12fd5924dba678a9",
+    "export_path": "docs/history/p1-six/MODEL_CONTEXT_BUDGET_VALIDATION.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "p1-six/RESEARCHER_DECISIONS_REQUIRED.md",
+    "source_sha256": "7fba585453fe573407c0cc7d05e71e52e3c77c8bd9d486df7e5ef577fa0108a1",
+    "export_path": "docs/history/p1-six/RESEARCHER_DECISIONS_REQUIRED.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "p1-six/P1_6CARD_FULLTEXT_v0.1.md",
+    "source_sha256": "25bb798a883dec797ddc1f519c7501392d5e5423ca4f701195ec6798176b7336",
+    "export_path": null,
+    "status": "INDEX_ONLY_POTENTIALLY_RESTRICTED"
+  },
+  {
+    "source_id": "p1-six/SCRIPTED_REGRESSION_FINAL.md",
+    "source_sha256": "98a8242e3efd6d170875e03b3867e95c5beecc9e7287b2e777248b3318f26aa9",
+    "export_path": null,
+    "status": "INDEX_ONLY_POTENTIALLY_RESTRICTED"
+  },
+  {
+    "source_id": "p1-six/EJQ_32_ITEM_OVERLAP_REVIEW.md",
+    "source_sha256": "6fac7a1a2c61aedef451e7371e5611c2c0b275a71694d02641ac7335286a00d3",
+    "export_path": null,
+    "status": "INDEX_ONLY_POTENTIALLY_RESTRICTED"
+  },
+  {
+    "source_id": "p1-six/P1_RESEARCHER_APPROVAL.md",
+    "source_sha256": "1ae825aed7222ea662e583c8ddf831030851bb8083f228375881a1aa7a75fdc1",
+    "export_path": "docs/history/p1-six/P1_RESEARCHER_APPROVAL.md",
+    "status": "EXPORTED"
+  },
+  {
+    "source_id": "p1-six/archive/v0.1/P1_RESEARCHER_APPROVAL.md",
+    "source_sha256": "e1bc8e1c5397f15749dda3af8f1578744e756872d293fef46401d5a46e76899a",
+    "export_path": "docs/history/p1-six/archive/v0.1/P1_RESEARCHER_APPROVAL.md",
+    "status": "EXPORTED"
+  }
+]

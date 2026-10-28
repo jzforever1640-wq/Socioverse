@@ -1,13 +1,13 @@
 [
   {
     "path": "shared/EXTERNAL_ARTIFACTS.json",
-    "sha256": "89d4145721fad65bb0a8665c394cdb058034c3a49943cd1b0b81bef0e3efed4d",
-    "bytes": 40762
+    "sha256": "c105ef53699184e63eea257c2b3c4124bff6e8f5bb265d60d3974c13cd7ff69a",
+    "bytes": 585580
   },
   {
     "path": "shared/RUN_REGISTRY.json",
-    "sha256": "9c842f955eecf07c2be7d3749fbbd2f19834a611b4fbb5e10ca8d456873abacb",
-    "bytes": 5232
+    "sha256": "edc5d0662a0b1219c000510e260afb650d842b7c86603226ba007e5385433b94",
+    "bytes": 55185
   },
   {
     "path": "shared/a001/receipt.json",
