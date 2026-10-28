@@ -1,6 +1,6 @@
 # 同伴共享链接
 
-repository_url: 尚未创建，待研究者填写
+repository_url: https://github.com/jzforever1640-wq/Socioverse
 report_path: reports/research_report.html（下载后离线打开）
 protocol_path: RESEARCH_PROTOCOL.md
 approvals_path: DECISION_LOG.md

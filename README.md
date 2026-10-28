@@ -2,7 +2,7 @@
 
 研究社会媒体信息、公共信息支持与同伴传播如何关联模拟考生的专业意愿，并描述 SES 异质性。24 名合成考生、固定网络、E1–E4 配对条件沿用现有研究，不代表真实考生总体。
 
-**候选协作副本，尚未创建 GitHub 仓库。P1 六卡未最终批准；Pilot 和正式真实实验尚未运行。** A001 仅完成单时点组件诊断。scripted 数据仅供软件验证。先读 RESEARCH_PROTOCOL.md、DECISION_LOG.md。
+**团队私有仓库：[jzforever1640-wq/Socioverse](https://github.com/jzforever1640-wq/Socioverse)。P1 六卡未最终批准；Pilot 和正式真实实验尚未运行。** A001 仅完成单时点组件诊断。scripted 数据仅供软件验证。先读 RESEARCH_PROTOCOL.md、DECISION_LOG.md。
 
 ## 快速开始（Python 3.12）
 
@@ -28,4 +28,4 @@ EJQ 评分代码可审查，题干、答案键、私有逐题响应和单人分�
 
 官方来源与许可证见 `provenance/UPSTREAM.json`、`vendor/SocioVerse2/LICENSE` 和 `NOTICE`。研究材料与第三方摘要未因此获得 Apache 再许可。完整材料与来源索引在 Study materials，保留来源时间未核实标识；不包含抓取的第三方全文。
 
-协作与上线步骤见 CONTRIBUTING.md 和 docs/GITHUB_SETUP.md。共享仓库链接位置：研究者创建并确认后填写 `docs/TEAM_LINKS.md`，目前未分配真实链接。
+协作与上线步骤见 CONTRIBUTING.md 和 docs/GITHUB_SETUP.md。共享仓库链接位置：研究者创建并确认后填写 `docs/TEAM_LINKS.md`，已填写研究者指定的私有仓库链接。
