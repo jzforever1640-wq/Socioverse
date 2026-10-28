@@ -1,0 +1,1 @@
+Pilot 与正式运行均用 run_manifest.json / outcomes.csv / usage.csv 创建新目录。空模板不是结果；NOT_RUN 保持 null。单人行仅限受控测量存储；团队共享前另行批准汇总与最小单元阈值，不默认将此 outcomes 表纳入共享。不得写入 prompt、响应原文、题干、答案键或凭证。每个外部对象记录 SHA-256、大小、访问组和受控 URI；F 补位单独记录，不标模型 fallback。

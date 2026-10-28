@@ -1,0 +1,20 @@
+{
+  "fixed_public_card_limit": 1024,
+  "fixed_social_card_limit": 220,
+  "dynamic_body_limit": 180,
+  "P1_order": [
+    "P101",
+    "P102",
+    "P103",
+    "P104",
+    "P105",
+    "P106"
+  ],
+  "history_policy": "retain explicit environment received cards through t5; no silent clip; AgentMemory not used to construct behavior context",
+  "proposed_input_cap": 12288,
+  "output_reserve": 1000,
+  "model": null,
+  "token_counter_verified": false,
+  "paid_authorized": false,
+  "approval_status": "PENDING_RESEARCHER_APPROVAL"
+}

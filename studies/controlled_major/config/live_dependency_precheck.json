@@ -1,0 +1,11 @@
+{
+  "status": "NOT_EXECUTED_REAL_CHANNEL",
+  "scripted_dependencies": "requirements.lock.txt",
+  "real_channel_extra": [
+    "openai",
+    "tiktoken"
+  ],
+  "real_endpoint_tested": false,
+  "token_counter_verified": false,
+  "requirement": "pin and verify SDK/tokenizer for approved model before paid GO; imports are lazy and approval-gated"
+}

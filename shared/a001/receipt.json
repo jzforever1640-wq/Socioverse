@@ -1,0 +1,44 @@
+{
+  "status": "PASS_REAL_ONE_STUDENT_COMPONENT_TEST_AND_OFFLINE_REPLAY",
+  "agent_id": "A001",
+  "step": 1,
+  "arm": "COMMON",
+  "seed": 20271001,
+  "real_http_attempts": 3,
+  "valid_responses": 3,
+  "automatic_retries": 0,
+  "fallback": false,
+  "actual_prompt_tokens": 6045,
+  "actual_completion_tokens": 610,
+  "usage_based_peak_cost_estimate_cny": "0.016970",
+  "provider_invoice_verified": false,
+  "provider_invoice_amount_cny": null,
+  "model_returned": [
+    "deepseek-flash"
+  ],
+  "system_fingerprints": [
+    "bc19ba97cbe016479903222bb1578db6"
+  ],
+  "private_state_unchanged": true,
+  "source_hashes_unchanged": true,
+  "credential_like_values_in_live_artifacts": false,
+  "artifact_permissions_verified": true,
+  "offline_unit_tests_passed": 12,
+  "offline_replay": {
+    "cloud_calls": 0,
+    "records_replayed": 3,
+    "results_equal": true,
+    "action_source": "replay"
+  },
+  "budget_bound_proven": false,
+  "budget_bound_validation": "DEFERRED_BY_RESEARCHER",
+  "P1_exposed": false,
+  "P1_final_approval": "PENDING_RESEARCHER_APPROVAL",
+  "formal_study_run": false,
+  "scripted_history_overwritten": false,
+  "data_use": "FEASIBILITY_COMPONENT_DIAGNOSTIC_ONLY_NOT_PRIMARY_ANALYSIS",
+  "code_hashes": {
+    "scripts/deepseek_single_student_probe.py": "f291c1781a79c075265bc855d2ede4c1620360775d69d4cb0d30c08ba5daa345",
+    "scripts/deepseek_local_token_estimate.py": "8bde1c7e144fb2081c799df5171e0d57b24bce9d76cb0ee03ed1eff3b2c32149"
+  }
+}

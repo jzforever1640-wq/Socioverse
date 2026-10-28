@@ -1,0 +1,24 @@
+{
+  "source_plan_sha256": "4c82f4f155a9e3d4e143bb5206650054261f12f778d8179089f240a427406494",
+  "materials_version": "P1-6CARD-v0.2-DRAFT-20261028",
+  "source_hashes": {
+    "scripts/ejq_alignment.py": "0e782f80683acdefce944a967ea2cc222b00664e0b5d7713a66434e3d1a5520f",
+    "inputs/EJQ_forms_PRIVATE_DRAFT.jsonl": "3e0b15738543c2b1c05a9abb26be2d0e04fd2196542eb41c0b4afcb153975d1a",
+    "scripts/guarded_channel.py": "a3e7b34ff5ab6edd8241270c155131defe36a86a04538b53aee047d25dfbda23",
+    "scripts/private_llm_measurement.py": "c54d7bb146dacbb8dead6c6c063bc44a0557228805eb999e474823c5927bd5b4",
+    "scripts/measurement_sidecar.py": "e600a6e4c3c95c7afc0b8cea08931afc9e92642307edc5917c36100e4930892d",
+    "inputs/phase17/scripts/controlled_runtime.py": "f3c118d1abc22ddb63ed1f21cb897f7964847ee8d386127672a259b620f68971",
+    "inputs/phase17/config/experiment.json": "6a657ef69352c68b444063ee1632a7d457bea94e1b02e5af3b48b56ec12bbcec",
+    "inputs/phase17/config/scenario.json": "fe1f74704dcdd896b000b7b70c8a6c3eee7dc4119f1ac7e3e49dcac168b2f2d5",
+    "inputs/phase17/population/source_roster_DRAFT.jsonl": "6ca8f06e359b1206a79bada79d8d0760af25696271ca09583255874e3314caf8",
+    "config/active_materials.json": "cca81f960cee869934a78b35b3210c5dcdcea6bbc75833612ce8e106f9498a73",
+    "scripts/materials_adapter.py": "067ed3ca6936901f1807984b609d8528a1e7b52e871b3d0f8b118a26818a12f5",
+    "native/studies/controlled_major_phase18/model.py": "8f9e9eb60da6dab81e0a5a8235928930367a1550f9ac183c9308bd8838d81c24",
+    "materials/payloads_P1_6CARD_DRAFT.json": "53f98a034ee268eea9e3b954df9263ec39d17d4fafc884a88b53a07a569361d4",
+    "materials/source_ledger_P1_6CARD_DRAFT.json": "66e400cdaac779cb2a6b33a769a953df4589b9b42e33421f42a68d3ca87be241",
+    "inputs/phase17/population/network_20271001.json": "49424afb2e8801b7abb02d71b7343fa1fc68faa57784c14b95a5a0ee7d247da3",
+    "inputs/phase17/population/network_20271002.json": "d9d39c2aae8b8c3b73f5f2723b0e8fc78e252d268600e492dd9608db698503ad",
+    "inputs/phase17/population/network_20271003.json": "d14e53086cdecda7ebdec8b269435eadc225611a3b830cb83b6baefba546cec7"
+  },
+  "source_root": "candidate-study (local location withheld)"
+}

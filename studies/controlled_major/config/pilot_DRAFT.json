@@ -1,0 +1,79 @@
+{
+  "status": "DRAFT_NOT_AUTHORIZED",
+  "pilot_agents": [
+    "A001",
+    "A002",
+    "A003",
+    "A022",
+    "A023",
+    "A024"
+  ],
+  "population_size": 6,
+  "ses_each": 2,
+  "base_templates": [
+    "BASE_01",
+    "BASE_08"
+  ],
+  "primary_arms": [
+    "E1",
+    "E3"
+  ],
+  "optional_dynamic_arms": [
+    "E2",
+    "E4"
+  ],
+  "seed": 20271001,
+  "n_steps": 5,
+  "fork_step": 2,
+  "interaction_rounds": 1,
+  "network_policy": "E1/E3 keep original24 graph in archive; no delivered dynamic messages. Optional6 dynamic uses explicitly labeled induced subgraph, does not alter original24 network; full network dynamics tested scripted24.",
+  "ejq_mode": "PRIVATE_ORIGINAL_V11_CANDIDATE_PENDING_D04",
+  "real_llm_enabled": false,
+  "paid_authorized": false,
+  "model": null,
+  "provider": null,
+  "price_input_per_million": null,
+  "price_output_per_million": null,
+  "max_workers": 1,
+  "max_input_tokens_per_call": 12288,
+  "max_output_tokens_per_call": 1000,
+  "retries_per_request": 1,
+  "retry_budget_fraction": 0.1,
+  "proposed_total_budget_usd": 5,
+  "authorization_required": [
+    "protocol_and_primary",
+    "payloads_and_measurement",
+    "specific_model_provider_price_and_hard_budget"
+  ],
+  "human_protocol_approval": false,
+  "human_material_approval": false,
+  "human_measurement_approval": false,
+  "exact_model_version": null,
+  "max_total_budget_usd": null,
+  "max_total_calls": 126,
+  "max_retry_calls": 12,
+  "usage_ledger_path": null,
+  "token_counter_verified": false,
+  "materials_version": "P1-6CARD-v0.2-DRAFT-20261028",
+  "N1_active": false,
+  "support_estimand": "P1 additional support vs no additional support",
+  "fixed_visible_limit": "PUBLIC_1024_SOCIAL_220",
+  "source_cutoff": "2026-10-24T23:59:00+08:00",
+  "approved_design_decisions_B": [
+    "B-01",
+    "B-02_WITH_CHANGES",
+    "B-03_WITH_CHANGES",
+    "B-04_WITH_CHANGES",
+    "B-05",
+    "B-06_WITH_CHANGES",
+    "B-07_WITH_CHANGES",
+    "B-08_WITH_CHANGES"
+  ],
+  "budget_change_status": "DRAFT_PENDING_MODEL_AND_RESEARCHER_APPROVAL",
+  "rationale": "Offline o200k/cl100k request estimates exceed former4000 cap; propose12288 inputs plus1000 output, not paid approval.",
+  "fixed_public_card_limit": 1024,
+  "fixed_social_card_limit": 220,
+  "model_selection_status": "USER_CONFIRMED_NOT_SELECTED",
+  "context_validation_status": "12288_FAILS_LEGAL_STRESS_CASES_MODEL_NOT_SELECTED",
+  "output_validation_status": "1000_INSUFFICIENT_FOR_SOME_SCHEMA_VALID_RESPONSES"
+}

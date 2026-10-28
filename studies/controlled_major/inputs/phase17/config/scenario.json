@@ -1,0 +1,84 @@
+{
+  "scenario_id": "controlled_major_preference_v1",
+  "status": "DRAFT_REVIEW_REQUIRED",
+  "run_ready": false,
+  "common": {
+    "disclosure": "这是一项研究者设定的假想专业选择实验，不对应任何真实大学或招生计划。",
+    "institution": "同一所匿名假想公办综合性高校",
+    "study_city": "同一座匿名求学城市，四专业的地域条件一致",
+    "qualification": "你具有选择全部四个专业的资格；不进行录取竞争，也不设置专业间录取机会差异。",
+    "duration_years": 4,
+    "tuition_annual_cny": 6000,
+    "accommodation_annual_cny": 1500,
+    "living_annual_cny": 12000,
+    "cost_basis": "上述金额为统一实验参数，非真实学校收费；各专业相同。家庭预算感受可不同，但不据此删除选项。",
+    "decision": "请依据当前信息、兴趣、未来规划和个人约束形成自己的报考意愿。"
+  },
+  "canonical_order": [
+    "CS",
+    "AUTO",
+    "EE",
+    "STAT"
+  ],
+  "cards": [
+    {
+      "major_id": "CS",
+      "name": "计算机科学与技术",
+      "learning": "学习程序设计、算法方法、计算机系统与网络等基础内容。",
+      "skills": "涉及算法分析、软件实现、系统理解与计算问题求解。",
+      "training": "围绕计算机软硬件系统的分析、设计与应用开展训练。"
+    },
+    {
+      "major_id": "AUTO",
+      "name": "自动化",
+      "learning": "学习控制理论、电子技术、检测技术与系统建模等基础内容。",
+      "skills": "涉及信号测量、控制分析、程序实现与系统调试。",
+      "training": "围绕自动控制系统的分析、设计与应用开展训练。"
+    },
+    {
+      "major_id": "EE",
+      "name": "电气工程及其自动化",
+      "learning": "学习电路、电机、电力电子与电能系统等基础内容。",
+      "skills": "涉及电路分析、电能转换、电气控制与系统调试。",
+      "training": "围绕电气设备与电能系统的分析、设计与应用开展训练。"
+    },
+    {
+      "major_id": "STAT",
+      "name": "统计学",
+      "learning": "学习概率论、数理统计、统计计算与数据分析等基础内容。",
+      "skills": "涉及抽样设计、统计推断、模型分析与计算实现。",
+      "training": "围绕数据收集、统计建模与分析解释开展训练。"
+    }
+  ],
+  "order_policy": "4-row Latin rotation by BASE_01..08 index modulo4; fixed within person/seed/all stages/arms; same across SES; not reshuffled between stages",
+  "measurement_prompt": {
+    "version": "intention_prompt_v1_DRAFT",
+    "question": "假设你具有选择以下所有专业的资格，学校、地区和学习费用等外部条件一致。根据你目前掌握的信息、个人兴趣和未来规划，你有多大意愿报考以下专业？",
+    "anchors": {
+      "0": "完全没有报考意愿",
+      "50": "态度不确定或意愿中等",
+      "100": "报考意愿非常强烈"
+    },
+    "instructions": "四个专业分别独立评分，使用0–100分；不需要相加等于100。可以增加、下降或保持不变。请另外报告当前首选专业（可并列或不确定），并简短解释。",
+    "first_choice_question": "你目前首选哪些专业？可并列；尚不确定则返回空列表。"
+  },
+  "forbidden_runtime_sources": [
+    "legacy prompt",
+    "legacy memory",
+    "admissions rules",
+    "rank data",
+    "university catalog",
+    "evaluation keys",
+    "analysis SES labels"
+  ],
+  "risk_prompt": {
+    "version": "risk_prompt_v1_DRAFT",
+    "question": "根据目前信息，你认为计算机相关职业路径的就业困难程度有多高？",
+    "anchors": {
+      "0": "很低",
+      "50": "中等或尚不确定",
+      "100": "很高"
+    },
+    "instruction": "这是主观困难感知，不是客观失业概率。"
+  }
+}

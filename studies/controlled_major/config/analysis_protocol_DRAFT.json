@@ -1,0 +1,78 @@
+{
+  "status": "PARTIALLY_APPROVED_REVIEW_REQUIRED",
+  "primary": {
+    "outcome": "CS intention paired support difference E3-E1 at t5; sole Primary",
+    "contrast": "mean_i[(I_CS_E3_t5-I_CS_COMMON_t1)-(I_CS_E1_t5-I_CS_COMMON_t1)]",
+    "feedback_setting": "OFF",
+    "reason": "least costly uncontaminated-by-generated-peer path for initial pilot; picks designated direct regime before outputs",
+    "phase17_change": "Approved conditionally in researcher chat; subject to denominator/status fixes and no live authorization",
+    "approval_status": "CONDITIONALLY_APPROVED_A1",
+    "estimand": "The total effect of providing an additional public information support package versus providing no additional support, under the same static social-information environment, within the simulated system.",
+    "interpretation_zh": "相同静态社会信息环境中，额外提供公共信息支持包相对于不额外支持，对模拟考生CS报考意愿的整体条件差异。"
+  },
+  "key_secondary": [
+    "E4-E2 t5 CS intention paired difference",
+    "four-major dynamic intention trajectories",
+    "EJQ total",
+    "CS employment risk perception",
+    "major ranking and first-choice changes"
+  ],
+  "heterogeneity": "SES descriptive only; no significance testing or SES causal claim",
+  "stages": {
+    "T0": 0,
+    "T1": 1,
+    "T2": 2,
+    "T3": 5
+  },
+  "scheduled_absence": [
+    3,
+    4
+  ],
+  "missing": [
+    "NOT_SCHEDULED",
+    "MISSING",
+    "PARTIAL",
+    "NOT_COMPARABLE"
+  ],
+  "missing_reasons": [
+    "REFUSAL",
+    "PARSE_ERROR",
+    "PROVIDER_FAILURE",
+    "TRUNCATED",
+    "NOT_EXECUTED",
+    "NOT_COMPARABLE"
+  ],
+  "analysis_unit": "whole paired seed/network, fixed 24; three seeds descriptive mean/range",
+  "measurement_mode": "post-run read-only sidecars from saved phase-specific states; prompts/responses never in Action payload or AgentMemory",
+  "primary_data_kind_gate": "reject MOCK_ONLY by default; explicit fixture mode writes SOFTWARE_TEST_ONLY outputs",
+  "score_sum_constraint": false,
+  "exploratory": [
+    "support-by-feedback interaction (E4-E2)-(E3-E1)",
+    "t2 immediate contrasts",
+    "EJQ dimensions and item diagnostics",
+    "SES descriptive response heterogeneity; no SES causal inference",
+    "SCA candidate pending independent Approval B; not approved by A2"
+  ],
+  "no_shock_reference": {
+    "minimum_pilot": "DEFERRED_APPROVED_FOR_MINIMUM_PILOT_ONLY",
+    "formal_experiment": "DECISION_REQUIRED_BEFORE_RUN",
+    "interpretation": "T1-T0 descriptive, no independent shock effect"
+  },
+  "real_llm_authorized": false,
+  "research_design_frozen": false,
+  "materials_version": "1.8B-MAT-v0.3-CANDIDATE",
+  "support_estimand": "P1 additional support vs no additional support",
+  "unseparated_components": [
+    "additional_information_quantity",
+    "reading_length",
+    "source_authority",
+    "cognitive_activity"
+  ],
+  "secondary_contrasts": [
+    "E4-E2",
+    "E2-E1",
+    "(E4-E2)-(E3-E1)"
+  ],
+  "interaction_is_not_causal_mediation": true,
+  "ejq_construct": "AI Coding domain evidence-judgment task performance; near transfer included; general critical thinking not validated"
+}

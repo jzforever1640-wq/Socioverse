@@ -1,0 +1,79 @@
+{
+  "status": "NOT_RUN_REAL_LLM",
+  "fields": [
+    "run_id",
+    "arm",
+    "agent_id",
+    "stage_or_step",
+    "response_or_message_id",
+    "criterion",
+    "expected",
+    "observed",
+    "status",
+    "evidence_path",
+    "reviewer",
+    "adjudication"
+  ],
+  "criteria": [
+    {
+      "criterion": "behavior_schema",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "intention_four_scores",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "independent_ranking",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "text_score_alignment",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "correct_exposure",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "id_time_continuity",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "source_support",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "unsupported_factual_extrapolation",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "message_parent_trace",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "EJQ_private_scoring",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "usage_and_cost",
+      "status": "NOT_RUN",
+      "observed": null
+    },
+    {
+      "criterion": "no_evaluation_memory_leak",
+      "status": "NOT_RUN",
+      "observed": null
+    }
+  ]
+}

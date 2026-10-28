@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.env
+.env.*
+**/.env
+**/.env.*
+*.pem
+*.key
+credentials*
+private/
+**/EJQ_forms_PRIVATE_DRAFT.jsonl
+**/ANSWER_KEYS.json
+**/requests.jsonl
+**/*rendered_requests*
+**/*.duckdb*
+**/*.parquet
+runs/
+artifacts-local/
+.DS_Store
+# Explicit study allowlist: upstream studies/*/ ignore is intentionally NOT inherited.
+!studies/
+!studies/controlled_major/
+!studies/controlled_major/**
+# Reapply private exclusions after study inclusion.
+**/__pycache__/
+**/*.pyc
+**/EJQ_forms_PRIVATE_DRAFT.jsonl
+**/ANSWER_KEYS.json

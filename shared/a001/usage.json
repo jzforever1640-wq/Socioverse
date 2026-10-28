@@ -1,0 +1,26 @@
+[
+  {
+    "purpose": "behavior",
+    "input_tokens": 1551,
+    "output_tokens": 315,
+    "estimated_cost_cny": "0.005622",
+    "data_kind": "REAL_LLM",
+    "attempts": 1
+  },
+  {
+    "purpose": "intention_risk_ranking",
+    "input_tokens": 1908,
+    "output_tokens": 138,
+    "estimated_cost_cny": "0.004920",
+    "data_kind": "REAL_LLM",
+    "attempts": 1
+  },
+  {
+    "purpose": "EJQ",
+    "input_tokens": 2586,
+    "output_tokens": 157,
+    "estimated_cost_cny": "0.006428",
+    "data_kind": "REAL_LLM",
+    "attempts": 1
+  }
+]

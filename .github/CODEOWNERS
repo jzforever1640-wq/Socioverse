@@ -1,0 +1,6 @@
+# 研究者创建私有仓库后填入实际用户/团队；当前注释不提供强制保护。
+# /studies/ @research-owner
+# /RESEARCH_PROTOCOL.md @research-owner
+# /DECISION_LOG.md @research-owner
+# /configs/ @research-owner
+# /studies/controlled_major/scripts/ejq_alignment.py @measurement-owner

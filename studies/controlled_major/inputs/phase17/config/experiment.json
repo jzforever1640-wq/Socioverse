@@ -1,0 +1,58 @@
+{
+  "status": "DRAFT_REVIEW_REQUIRED",
+  "scenario_id": "controlled_major_preference_v1",
+  "conditions": {
+    "E1": {
+      "public_evidence": false,
+      "dynamic_feedback": false
+    },
+    "E2": {
+      "public_evidence": false,
+      "dynamic_feedback": true
+    },
+    "E3": {
+      "public_evidence": true,
+      "dynamic_feedback": false
+    },
+    "E4": {
+      "public_evidence": true,
+      "dynamic_feedback": true
+    }
+  },
+  "fork_step": 2,
+  "interaction_rounds": 1,
+  "endpoint": 5,
+  "measurement_stages": {
+    "T0": 0,
+    "T1": 1,
+    "T2": 2,
+    "T3": 5
+  },
+  "unmeasured_steps": [
+    3,
+    4
+  ],
+  "T3_interpretation": {
+    "E1": "static_control_endpoint_no_dynamic_exposure",
+    "E2": "post_dynamic_feedback_endpoint",
+    "E3": "support_static_endpoint_no_dynamic_exposure",
+    "E4": "post_support_dynamic_feedback_endpoint"
+  },
+  "seeds": [
+    20271001,
+    20271002,
+    20271003
+  ],
+  "population_policy": "fixed existing 24 across seeds; network snapshots differ",
+  "formal_payloads": {
+    "shock": null,
+    "static": null,
+    "public": null,
+    "neutral_control": null
+  },
+  "real_llm_enabled": false,
+  "paid_calls_allowed": false,
+  "public_cascade": "PROPOSED_D01_REVIEW_REQUIRED; fixture exercises t2 to t3 delay only",
+  "no_shock_reference": "RETAINED_PENDING_MATERIAL_AND_REVIEW",
+  "rq2_ablation": "RETAINED_PENDING_D03"
+}

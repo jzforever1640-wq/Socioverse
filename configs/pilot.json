@@ -1,0 +1,6 @@
+{
+  "mode": "pilot",
+  "status": "NOT_RUN_REQUIRES_SEPARATE_AUTHORIZATION",
+  "real_llm_authorized": false,
+  "source": "studies/controlled_major/config/pilot_DRAFT.json"
+}

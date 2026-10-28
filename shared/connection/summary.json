@@ -1,0 +1,28 @@
+{
+  "scope": "CONNECTION_ONLY_NOT_STUDY",
+  "timestamp_utc": "2026-10-28T19:02:47.276223+00:00",
+  "http_attempt": 1,
+  "model_requested": "deepseek-flash",
+  "model_returned": "deepseek-flash",
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "status": "VALID_CONNECTION_ONLY",
+  "http_status": 200,
+  "usage": {
+    "prompt_tokens": 41,
+    "completion_tokens": 5,
+    "total_tokens": 46,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 41
+  },
+  "computed_cost_cny": "0.000122",
+  "billing_status": "ACTUAL_USAGE_TIMES_REVIEWED_PEAK_RATES_NOT_PROVIDER_INVOICE",
+  "finish_reason": "stop",
+  "fallback": false,
+  "data_kind": "REAL_LLM_CONNECTION_DIAGNOSTIC",
+  "api_calls": 1,
+  "source_sha256": "94878d493de4ee99079c2ce6cc687522c9b4214c3c38f2e62c30d0a16b5d27a6",
+  "deduplication": "Reservation and completion rows are one HTTP attempt; not two calls"
+}

@@ -1,0 +1,7 @@
+{
+  "version": "P1-6CARD-v0.2-DRAFT-20261028",
+  "payloads": "materials/payloads_P1_6CARD_DRAFT.json",
+  "source_ledger": "materials/source_ledger_P1_6CARD_DRAFT.json",
+  "frozen": false,
+  "real_llm_authorized": false
+}

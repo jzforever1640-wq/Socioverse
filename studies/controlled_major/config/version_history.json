@@ -1,0 +1,8 @@
+{
+  "current": "1.8B-MAT-v0.3-CANDIDATE",
+  "parent_material": "1.8B-MAT-v0.2-DRAFT",
+  "engineering_archive": "versions/pre_B_FINAL_20261028",
+  "gate_choice": "NEW_VERSION_EXPLICITLY_AUTHORIZED_BY_RESEARCHER",
+  "date": "2026-10-28",
+  "note": "Remove N1; additional support; replay common t1"
+}

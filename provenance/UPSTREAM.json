@@ -1,0 +1,12 @@
+{
+  "url": "https://github.com/sii-research/SocioVerse2",
+  "commit": "9c3ac774816511c121184ca11f539dc398ba1544",
+  "license": "Apache-2.0",
+  "vendored": "unmodified tracked runtime plus workspace helper; UTF-8 copy",
+  "research_license": "No new license grant asserted for researcher material; private team review only",
+  "adaptations": [
+    "EJQ bank loaded from SV2_EJQ_BANK, outside Git",
+    "Behavior-only asset manifest excludes private bank; private scorer fails closed without SV2_EJQ_BANK",
+    "local paths redacted in exported copies; source/export hashes retained"
+  ]
+}

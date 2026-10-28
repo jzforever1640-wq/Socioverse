@@ -1,0 +1,446 @@
+[
+  {
+    "source_id": "upstream@9c3ac77/CITATION.cff",
+    "destination": "vendor/SocioVerse2/CITATION.cff",
+    "source_sha256": "e48849653273d985c81223a451a6e469c27ce1ca9586d0b1e095475316596d83",
+    "export_sha256": "e48849653273d985c81223a451a6e469c27ce1ca9586d0b1e095475316596d83"
+  },
+  {
+    "source_id": "upstream@9c3ac77/LICENSE",
+    "destination": "vendor/SocioVerse2/LICENSE",
+    "source_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "export_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "source_id": "upstream@9c3ac77/MANIFEST.in",
+    "destination": "vendor/SocioVerse2/MANIFEST.in",
+    "source_sha256": "7692a22303a94c3042166226200f23bcb786682b2e1d38f882da964781477b44",
+    "export_sha256": "7692a22303a94c3042166226200f23bcb786682b2e1d38f882da964781477b44"
+  },
+  {
+    "source_id": "upstream@9c3ac77/NOTICE",
+    "destination": "vendor/SocioVerse2/NOTICE",
+    "source_sha256": "6f5fdfaf25e152037ce2971110eb7951a6fdac834f035b304023703061972169",
+    "export_sha256": "6f5fdfaf25e152037ce2971110eb7951a6fdac834f035b304023703061972169"
+  },
+  {
+    "source_id": "upstream@9c3ac77/pyproject.toml",
+    "destination": "vendor/SocioVerse2/pyproject.toml",
+    "source_sha256": "b05e3d3472df1eb64be4d4c93128706e24028388e3a9c40ab7380e11d1b64bc1",
+    "export_sha256": "b05e3d3472df1eb64be4d4c93128706e24028388e3a9c40ab7380e11d1b64bc1"
+  },
+  {
+    "source_id": "upstream@9c3ac77/resources/capabilities.yaml",
+    "destination": "vendor/SocioVerse2/resources/capabilities.yaml",
+    "source_sha256": "210f310bd72bdfde273d3ed33406f3cf945a1cbcdebba7b3c6af70accfa8a93c",
+    "export_sha256": "210f310bd72bdfde273d3ed33406f3cf945a1cbcdebba7b3c6af70accfa8a93c"
+  },
+  {
+    "source_id": "upstream@9c3ac77/skills/__init__.py",
+    "destination": "vendor/SocioVerse2/skills/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "export_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "source_id": "upstream@9c3ac77/skills/sv_workspace.py",
+    "destination": "vendor/SocioVerse2/skills/sv_workspace.py",
+    "source_sha256": "206e060d503944eed576cb4da939e293343c42cf2f1aa7d216925cdd2a62b2af",
+    "export_sha256": "206e060d503944eed576cb4da939e293343c42cf2f1aa7d216925cdd2a62b2af"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/__init__.py",
+    "destination": "vendor/SocioVerse2/socioverse/__init__.py",
+    "source_sha256": "6f05b54579a65f2f31dd5c011e7ddb011b116d03e72ba84228797684c024943b",
+    "export_sha256": "6f05b54579a65f2f31dd5c011e7ddb011b116d03e72ba84228797684c024943b"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/__init__.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/__init__.py",
+    "source_sha256": "f9d5f2e100a735bc2eb2ec210820d3f150f585f7f108a9f65f35def344d9056b",
+    "export_sha256": "f9d5f2e100a735bc2eb2ec210820d3f150f585f7f108a9f65f35def344d9056b"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/decision.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/decision.py",
+    "source_sha256": "233f8186ac24c3ccabe67bbdb32f01b9fd046be929223c2a25dde12bbacbe2f9",
+    "export_sha256": "233f8186ac24c3ccabe67bbdb32f01b9fd046be929223c2a25dde12bbacbe2f9"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/environment.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/environment.py",
+    "source_sha256": "70c75c9171ddbb70cfd3cd9458cf2e04f3478b179e1d6e65cde023cd9ecc35d5",
+    "export_sha256": "70c75c9171ddbb70cfd3cd9458cf2e04f3478b179e1d6e65cde023cd9ecc35d5"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/messaging.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/messaging.py",
+    "source_sha256": "4aa5cc5a424f60abdc9ffd96a9a908eeb2e3a64448d720a16039d7dab55ed14d",
+    "export_sha256": "4aa5cc5a424f60abdc9ffd96a9a908eeb2e3a64448d720a16039d7dab55ed14d"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/population.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/population.py",
+    "source_sha256": "3a8d8ae22701c4b5cb1990ecb5e4be00fe0efb811387ed54d61e59dd6915a275",
+    "export_sha256": "3a8d8ae22701c4b5cb1990ecb5e4be00fe0efb811387ed54d61e59dd6915a275"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/reporter.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/reporter.py",
+    "source_sha256": "d2f64eec19d1ec1e4e2c17b2af83b2b9592377ccada3892a600f810b96e3595e",
+    "export_sha256": "d2f64eec19d1ec1e4e2c17b2af83b2b9592377ccada3892a600f810b96e3595e"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/simulator.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/simulator.py",
+    "source_sha256": "a360a5f5cee8d7b19de3447d02ed12f034e5181ac072fee90b1ef23c39e9ea8c",
+    "export_sha256": "a360a5f5cee8d7b19de3447d02ed12f034e5181ac072fee90b1ef23c39e9ea8c"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/abc/trajectory.py",
+    "destination": "vendor/SocioVerse2/socioverse/abc/trajectory.py",
+    "source_sha256": "eba57a0a74cfee350f4c5b59803ce9b785e1694ca078df43e4b32ee9fd49d243",
+    "export_sha256": "eba57a0a74cfee350f4c5b59803ce9b785e1694ca078df43e4b32ee9fd49d243"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/engine/__init__.py",
+    "destination": "vendor/SocioVerse2/socioverse/engine/__init__.py",
+    "source_sha256": "c5cfb8033c2ef07653148a51364e703dab5c7595ed9dd1f1e8b6c8abc59137a8",
+    "export_sha256": "c5cfb8033c2ef07653148a51364e703dab5c7595ed9dd1f1e8b6c8abc59137a8"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/engine/builder.py",
+    "destination": "vendor/SocioVerse2/socioverse/engine/builder.py",
+    "source_sha256": "67ba69be67ee6b1ba8b65690adf13957c8d7f3f1823f66ee2c9a6e064e237230",
+    "export_sha256": "67ba69be67ee6b1ba8b65690adf13957c8d7f3f1823f66ee2c9a6e064e237230"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/engine/loop.py",
+    "destination": "vendor/SocioVerse2/socioverse/engine/loop.py",
+    "source_sha256": "0e27590f71a483fab1ff2b6d371bdde1f05c0a293f418358516d6494c5273eaa",
+    "export_sha256": "0e27590f71a483fab1ff2b6d371bdde1f05c0a293f418358516d6494c5273eaa"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/engine/memory.py",
+    "destination": "vendor/SocioVerse2/socioverse/engine/memory.py",
+    "source_sha256": "933d6df72cdee495d81927d99f0efa3c8800f9fe24b3f27e1cfe2b6f2c8a0d2a",
+    "export_sha256": "933d6df72cdee495d81927d99f0efa3c8800f9fe24b3f27e1cfe2b6f2c8a0d2a"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/engine/messaging.py",
+    "destination": "vendor/SocioVerse2/socioverse/engine/messaging.py",
+    "source_sha256": "ff00812ee4fcd3493b383942708124b3cd076881ce2d16a308802099798d296a",
+    "export_sha256": "ff00812ee4fcd3493b383942708124b3cd076881ce2d16a308802099798d296a"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/engine/registry.py",
+    "destination": "vendor/SocioVerse2/socioverse/engine/registry.py",
+    "source_sha256": "5df2c5f1b9aeb4404755ed571b19563e7c3287702096b8ebdb42cbb0c05bbcd5",
+    "export_sha256": "5df2c5f1b9aeb4404755ed571b19563e7c3287702096b8ebdb42cbb0c05bbcd5"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/env_layers/__init__.py",
+    "destination": "vendor/SocioVerse2/socioverse/env_layers/__init__.py",
+    "source_sha256": "2a715293ca65b0ffe30f19bb2f5ca9307ef4f15dd05a6b7dd376c87a1b618730",
+    "export_sha256": "2a715293ca65b0ffe30f19bb2f5ca9307ef4f15dd05a6b7dd376c87a1b618730"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/env_layers/information.py",
+    "destination": "vendor/SocioVerse2/socioverse/env_layers/information.py",
+    "source_sha256": "43fc70fe583ca06b4b9e36a3f82438d4001497c60172b72b226d5eb579a4e0d9",
+    "export_sha256": "43fc70fe583ca06b4b9e36a3f82438d4001497c60172b72b226d5eb579a4e0d9"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/env_layers/neighbor_feed.py",
+    "destination": "vendor/SocioVerse2/socioverse/env_layers/neighbor_feed.py",
+    "source_sha256": "6c9bcc5d68740fd2bae947a47e389ad6e21086779fcdf9a0bec34e4fe2d9a281",
+    "export_sha256": "6c9bcc5d68740fd2bae947a47e389ad6e21086779fcdf9a0bec34e4fe2d9a281"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/env_layers/news_broadcast.py",
+    "destination": "vendor/SocioVerse2/socioverse/env_layers/news_broadcast.py",
+    "source_sha256": "1166a6272b44fcc770846641e643cac13e26c8b306f76b975c69ee033552d562",
+    "export_sha256": "1166a6272b44fcc770846641e643cac13e26c8b306f76b975c69ee033552d562"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/external_events.py",
+    "destination": "vendor/SocioVerse2/socioverse/external_events.py",
+    "source_sha256": "e6bba9669d9aa094c2b565dd64afe7bddb8eeab96475cca97970d85994884f21",
+    "export_sha256": "e6bba9669d9aa094c2b565dd64afe7bddb8eeab96475cca97970d85994884f21"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/io/__init__.py",
+    "destination": "vendor/SocioVerse2/socioverse/io/__init__.py",
+    "source_sha256": "560031577e12e1ea7027ca1654ab6ec283acca7a56b766d727b9e3cba8e20e5f",
+    "export_sha256": "560031577e12e1ea7027ca1654ab6ec283acca7a56b766d727b9e3cba8e20e5f"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/io/duckdb_store.py",
+    "destination": "vendor/SocioVerse2/socioverse/io/duckdb_store.py",
+    "source_sha256": "bc18f1afb3f7c609d965a0141f14d34ac74a98717f236382a706d25df7472bcf",
+    "export_sha256": "bc18f1afb3f7c609d965a0141f14d34ac74a98717f236382a706d25df7472bcf"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/providers.py",
+    "destination": "vendor/SocioVerse2/socioverse/providers.py",
+    "source_sha256": "50f2ac6c8aa4eb677e5574117c255f328d2a3e9af7a4de2c3a040d3d4f16c1ed",
+    "export_sha256": "50f2ac6c8aa4eb677e5574117c255f328d2a3e9af7a4de2c3a040d3d4f16c1ed"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/py.typed",
+    "destination": "vendor/SocioVerse2/socioverse/py.typed",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "export_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/__init__.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/__init__.py",
+    "source_sha256": "eb79eabc1e804647d71109fc2de12a8cc22f51e3593191b2253ca4c68ebc6e31",
+    "export_sha256": "eb79eabc1e804647d71109fc2de12a8cc22f51e3593191b2253ca4c68ebc6e31"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/common.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/common.py",
+    "source_sha256": "dd9ca20ae71ed558460ed44fa52d6e060559df0befccd2ba4f29f658c7162aa3",
+    "export_sha256": "dd9ca20ae71ed558460ed44fa52d6e060559df0befccd2ba4f29f658c7162aa3"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/environment.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/environment.py",
+    "source_sha256": "be2a4442e982e900960fb0b1d67cd096abc3a58e767ef49c02867878eed7a878",
+    "export_sha256": "be2a4442e982e900960fb0b1d67cd096abc3a58e767ef49c02867878eed7a878"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/population.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/population.py",
+    "source_sha256": "fa7d4a8f043c9b6374f4df9512d8e742ea42a90ca8cb6ae0b98eea212f67e25d",
+    "export_sha256": "fa7d4a8f043c9b6374f4df9512d8e742ea42a90ca8cb6ae0b98eea212f67e25d"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/resources.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/resources.py",
+    "source_sha256": "cbb87dfd220ee6e57987a7e44bee4da15bc9fb7847557843019fa07493d5ac1e",
+    "export_sha256": "cbb87dfd220ee6e57987a7e44bee4da15bc9fb7847557843019fa07493d5ac1e"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/runtime.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/runtime.py",
+    "source_sha256": "a6e156918b5476400530cdef027ba8bab3bdf11aa0bdf258a434db872af97806",
+    "export_sha256": "a6e156918b5476400530cdef027ba8bab3bdf11aa0bdf258a434db872af97806"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/simulation.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/simulation.py",
+    "source_sha256": "50f58b1de224f99ac40f6f0bd4135dc375fb2410bf1c5308a89c0a3207ce42c6",
+    "export_sha256": "50f58b1de224f99ac40f6f0bd4135dc375fb2410bf1c5308a89c0a3207ce42c6"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/study.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/study.py",
+    "source_sha256": "9bc2a306c4539ffadb9eac437173b7aed0c32e2d1de2ab26281699dfed5d2755",
+    "export_sha256": "9bc2a306c4539ffadb9eac437173b7aed0c32e2d1de2ab26281699dfed5d2755"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/schemas/trajectory.py",
+    "destination": "vendor/SocioVerse2/socioverse/schemas/trajectory.py",
+    "source_sha256": "891802ff7ad2658722d1e3ee34c06055e43173729e662cf11006d6c4f4ee0695",
+    "export_sha256": "891802ff7ad2658722d1e3ee34c06055e43173729e662cf11006d6c4f4ee0695"
+  },
+  {
+    "source_id": "upstream@9c3ac77/socioverse/validation.py",
+    "destination": "vendor/SocioVerse2/socioverse/validation.py",
+    "source_sha256": "ec3638a62802a0e09072fc29ef1eadb7e8690ca799ec6d0a2e045f98b9772362",
+    "export_sha256": "ec3638a62802a0e09072fc29ef1eadb7e8690ca799ec6d0a2e045f98b9772362"
+  },
+  {
+    "source_id": "candidate/materials/source_ledger_P1_6CARD_DRAFT.json",
+    "destination": "studies/controlled_major/materials/source_ledger_P1_6CARD_DRAFT.json",
+    "source_sha256": "66e400cdaac779cb2a6b33a769a953df4589b9b42e33421f42a68d3ca87be241",
+    "export_sha256": "66e400cdaac779cb2a6b33a769a953df4589b9b42e33421f42a68d3ca87be241"
+  },
+  {
+    "source_id": "candidate/materials/payloads_P1_6CARD_DRAFT.json",
+    "destination": "studies/controlled_major/materials/payloads_P1_6CARD_DRAFT.json",
+    "source_sha256": "53f98a034ee268eea9e3b954df9263ec39d17d4fafc884a88b53a07a569361d4",
+    "export_sha256": "53f98a034ee268eea9e3b954df9263ec39d17d4fafc884a88b53a07a569361d4"
+  },
+  {
+    "source_id": "candidate/config/prompt_budget_P1_DRAFT.json",
+    "destination": "studies/controlled_major/config/prompt_budget_P1_DRAFT.json",
+    "source_sha256": "4b3af60528a839bb6f963a9034be1f9e9dea58caf33c018d491db23b867080fa",
+    "export_sha256": "4b3af60528a839bb6f963a9034be1f9e9dea58caf33c018d491db23b867080fa"
+  },
+  {
+    "source_id": "candidate/config/go_no_go_B_FINAL.json",
+    "destination": "studies/controlled_major/config/go_no_go_B_FINAL.json",
+    "source_sha256": "a34890bed724d911e6baede8438c266c72b9392b6257e9ca2f08c2e444e7614e",
+    "export_sha256": "a34890bed724d911e6baede8438c266c72b9392b6257e9ca2f08c2e444e7614e"
+  },
+  {
+    "source_id": "candidate/config/active_materials.json",
+    "destination": "studies/controlled_major/config/active_materials.json",
+    "source_sha256": "cca81f960cee869934a78b35b3210c5dcdcea6bbc75833612ce8e106f9498a73",
+    "export_sha256": "cca81f960cee869934a78b35b3210c5dcdcea6bbc75833612ce8e106f9498a73"
+  },
+  {
+    "source_id": "candidate/config/context_budget_proposal_FINAL.json",
+    "destination": "studies/controlled_major/config/context_budget_proposal_FINAL.json",
+    "source_sha256": "816c5782c6c32b9cce35f0274ea268b363599be7a89c57b4cf176c74ec7dd5d7",
+    "export_sha256": "816c5782c6c32b9cce35f0274ea268b363599be7a89c57b4cf176c74ec7dd5d7"
+  },
+  {
+    "source_id": "candidate/config/live_dependency_precheck.json",
+    "destination": "studies/controlled_major/config/live_dependency_precheck.json",
+    "source_sha256": "78c382cce46f7fbc1e244ca2a04689f3e5450dae97d61be61e0a021d5b4ed861",
+    "export_sha256": "78c382cce46f7fbc1e244ca2a04689f3e5450dae97d61be61e0a021d5b4ed861"
+  },
+  {
+    "source_id": "candidate/config/pilot_review_template.json",
+    "destination": "studies/controlled_major/config/pilot_review_template.json",
+    "source_sha256": "e82c902cc82524383e9ed63898f2739d1ee87a10f493d0ad82caa024ed6c2cfa",
+    "export_sha256": "e82c902cc82524383e9ed63898f2739d1ee87a10f493d0ad82caa024ed6c2cfa"
+  },
+  {
+    "source_id": "candidate/config/pilot_DRAFT.json",
+    "destination": "studies/controlled_major/config/pilot_DRAFT.json",
+    "source_sha256": "3e42702709cd4d7aaeb0e6a8d9dd5ea1819870dc8edb5f83141266f831fab45a",
+    "export_sha256": "3e42702709cd4d7aaeb0e6a8d9dd5ea1819870dc8edb5f83141266f831fab45a"
+  },
+  {
+    "source_id": "candidate/config/version_history.json",
+    "destination": "studies/controlled_major/config/version_history.json",
+    "source_sha256": "4708b6a60e50d61203b3c509433736a88d820c0a2afadfeb373bbdffa0a680b2",
+    "export_sha256": "4708b6a60e50d61203b3c509433736a88d820c0a2afadfeb373bbdffa0a680b2"
+  },
+  {
+    "source_id": "candidate/config/analysis_protocol_DRAFT.json",
+    "destination": "studies/controlled_major/config/analysis_protocol_DRAFT.json",
+    "source_sha256": "a2916a9791d35b7e46ac4e34c160e7262b638117c4401553ba21cd5feb6c8e46",
+    "export_sha256": "a2916a9791d35b7e46ac4e34c160e7262b638117c4401553ba21cd5feb6c8e46"
+  },
+  {
+    "source_id": "candidate/scripts/analyze_outcomes.py",
+    "destination": "studies/controlled_major/scripts/analyze_outcomes.py",
+    "source_sha256": "26ee240582fcd28de9b0d05e343ea47e888b70b388a53b74d9b66979eea30291",
+    "export_sha256": "26ee240582fcd28de9b0d05e343ea47e888b70b388a53b74d9b66979eea30291"
+  },
+  {
+    "source_id": "candidate/scripts/guarded_channel.py",
+    "destination": "studies/controlled_major/scripts/guarded_channel.py",
+    "source_sha256": "a3e7b34ff5ab6edd8241270c155131defe36a86a04538b53aee047d25dfbda23",
+    "export_sha256": "a3e7b34ff5ab6edd8241270c155131defe36a86a04538b53aee047d25dfbda23"
+  },
+  {
+    "source_id": "candidate/scripts/test_phase18.py",
+    "destination": "studies/controlled_major/scripts/test_phase18.py",
+    "source_sha256": "8958da96c7b4044d9e63e7ac7a0c5a40ba240d9c6e87fea4c1c3b90b34a9a6dc",
+    "export_sha256": "8958da96c7b4044d9e63e7ac7a0c5a40ba240d9c6e87fea4c1c3b90b34a9a6dc"
+  },
+  {
+    "source_id": "candidate/scripts/run_native_scripted.py",
+    "destination": "studies/controlled_major/scripts/run_native_scripted.py",
+    "source_sha256": "5619b3b74e5b3b26806cf104ee6b1bd0edf671ff7d3d9ae547052136d9be5990",
+    "export_sha256": "5619b3b74e5b3b26806cf104ee6b1bd0edf671ff7d3d9ae547052136d9be5990"
+  },
+  {
+    "source_id": "candidate/scripts/measurement_sidecar.py",
+    "destination": "studies/controlled_major/scripts/measurement_sidecar.py",
+    "source_sha256": "e600a6e4c3c95c7afc0b8cea08931afc9e92642307edc5917c36100e4930892d",
+    "export_sha256": "47e7ecec006a72812db06fb94c632094e1aad6c2b5f580f7f5d8a16d076dd737"
+  },
+  {
+    "source_id": "candidate/scripts/setup_scripted.sh",
+    "destination": "studies/controlled_major/scripts/setup_scripted.sh",
+    "source_sha256": "2c847b8334fa87853520f2da6d7c75fb55114ddda2106c414d8687801db7fac9",
+    "export_sha256": "2c847b8334fa87853520f2da6d7c75fb55114ddda2106c414d8687801db7fac9"
+  },
+  {
+    "source_id": "candidate/scripts/private_llm_measurement.py",
+    "destination": "studies/controlled_major/scripts/private_llm_measurement.py",
+    "source_sha256": "c54d7bb146dacbb8dead6c6c063bc44a0557228805eb999e474823c5927bd5b4",
+    "export_sha256": "c54d7bb146dacbb8dead6c6c063bc44a0557228805eb999e474823c5927bd5b4"
+  },
+  {
+    "source_id": "candidate/scripts/ejq_alignment.py",
+    "destination": "studies/controlled_major/scripts/ejq_alignment.py",
+    "source_sha256": "0e782f80683acdefce944a967ea2cc222b00664e0b5d7713a66434e3d1a5520f",
+    "export_sha256": "24d463b1a6f324bb332dd5e6dc18a3c2e56ab3385463bd11dd8783fde6cfb5c6"
+  },
+  {
+    "source_id": "candidate/scripts/pilot_preflight.py",
+    "destination": "studies/controlled_major/scripts/pilot_preflight.py",
+    "source_sha256": "d77174549f6f4bf374d6cb4e9398a84f4f23302fbb30c3651aa33e027e31709d",
+    "export_sha256": "d77174549f6f4bf374d6cb4e9398a84f4f23302fbb30c3651aa33e027e31709d"
+  },
+  {
+    "source_id": "candidate/scripts/materials_adapter.py",
+    "destination": "studies/controlled_major/scripts/materials_adapter.py",
+    "source_sha256": "067ed3ca6936901f1807984b609d8528a1e7b52e871b3d0f8b118a26818a12f5",
+    "export_sha256": "067ed3ca6936901f1807984b609d8528a1e7b52e871b3d0f8b118a26818a12f5"
+  },
+  {
+    "source_id": "candidate/native/studies/__init__.py",
+    "destination": "studies/controlled_major/native/studies/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "export_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "source_id": "candidate/native/studies/controlled_major_phase18/__init__.py",
+    "destination": "studies/controlled_major/native/studies/controlled_major_phase18/__init__.py",
+    "source_sha256": "9eb3af447127d8a0272c2cfbeb4e2e0b105abf16a691895b45faeb1d6a18331e",
+    "export_sha256": "9eb3af447127d8a0272c2cfbeb4e2e0b105abf16a691895b45faeb1d6a18331e"
+  },
+  {
+    "source_id": "candidate/native/studies/controlled_major_phase18/model.py",
+    "destination": "studies/controlled_major/native/studies/controlled_major_phase18/model.py",
+    "source_sha256": "8f9e9eb60da6dab81e0a5a8235928930367a1550f9ac183c9308bd8838d81c24",
+    "export_sha256": "402315a0d21bd67f3601416fc2193aa203fe35bf877b9a1b710b236ac378514a"
+  },
+  {
+    "source_id": "candidate/inputs/phase17/config/experiment.json",
+    "destination": "studies/controlled_major/inputs/phase17/config/experiment.json",
+    "source_sha256": "6a657ef69352c68b444063ee1632a7d457bea94e1b02e5af3b48b56ec12bbcec",
+    "export_sha256": "6a657ef69352c68b444063ee1632a7d457bea94e1b02e5af3b48b56ec12bbcec"
+  },
+  {
+    "source_id": "candidate/inputs/phase17/config/scenario.json",
+    "destination": "studies/controlled_major/inputs/phase17/config/scenario.json",
+    "source_sha256": "fe1f74704dcdd896b000b7b70c8a6c3eee7dc4119f1ac7e3e49dcac168b2f2d5",
+    "export_sha256": "fe1f74704dcdd896b000b7b70c8a6c3eee7dc4119f1ac7e3e49dcac168b2f2d5"
+  },
+  {
+    "source_id": "candidate/inputs/phase17/population/network_20271002.json",
+    "destination": "studies/controlled_major/inputs/phase17/population/network_20271002.json",
+    "source_sha256": "d9d39c2aae8b8c3b73f5f2723b0e8fc78e252d268600e492dd9608db698503ad",
+    "export_sha256": "d9d39c2aae8b8c3b73f5f2723b0e8fc78e252d268600e492dd9608db698503ad"
+  },
+  {
+    "source_id": "candidate/inputs/phase17/population/network_20271003.json",
+    "destination": "studies/controlled_major/inputs/phase17/population/network_20271003.json",
+    "source_sha256": "d14e53086cdecda7ebdec8b269435eadc225611a3b830cb83b6baefba546cec7",
+    "export_sha256": "d14e53086cdecda7ebdec8b269435eadc225611a3b830cb83b6baefba546cec7"
+  },
+  {
+    "source_id": "candidate/inputs/phase17/population/source_roster_DRAFT.jsonl",
+    "destination": "studies/controlled_major/inputs/phase17/population/source_roster_DRAFT.jsonl",
+    "source_sha256": "6ca8f06e359b1206a79bada79d8d0760af25696271ca09583255874e3314caf8",
+    "export_sha256": "6ca8f06e359b1206a79bada79d8d0760af25696271ca09583255874e3314caf8"
+  },
+  {
+    "source_id": "candidate/inputs/phase17/population/network_20271001.json",
+    "destination": "studies/controlled_major/inputs/phase17/population/network_20271001.json",
+    "source_sha256": "49424afb2e8801b7abb02d71b7343fa1fc68faa57784c14b95a5a0ee7d247da3",
+    "export_sha256": "49424afb2e8801b7abb02d71b7343fa1fc68faa57784c14b95a5a0ee7d247da3"
+  },
+  {
+    "source_id": "candidate/inputs/phase17/scripts/controlled_runtime.py",
+    "destination": "studies/controlled_major/inputs/phase17/scripts/controlled_runtime.py",
+    "source_sha256": "f3c118d1abc22ddb63ed1f21cb897f7964847ee8d386127672a259b620f68971",
+    "export_sha256": "f3c118d1abc22ddb63ed1f21cb897f7964847ee8d386127672a259b620f68971"
+  },
+  {
+    "source_id": "upstream@9c3ac77/README.pypi.md",
+    "destination": "vendor/SocioVerse2/README.pypi.md",
+    "source_sha256": "ad890d820a6d45308f55e79cc0c5bafb853236c19e9a1a37eb848329563ea512",
+    "export_sha256": "ad890d820a6d45308f55e79cc0c5bafb853236c19e9a1a37eb848329563ea512"
+  }
+]

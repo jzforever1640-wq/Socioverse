@@ -1,0 +1,14 @@
+{
+  "materials_version": "1.8B-MAT-v0.3-CANDIDATE",
+  "design_decisions_B": "APPROVED_WITH_CHANGES_IMPLEMENTED",
+  "text_status": "FINAL_RESEARCHER_CONFIRMATION_PENDING",
+  "source_cutoff": "2026-10-24T23:59:00+08:00",
+  "historical_source_versions": "UNVERIFIED_WHERE_NOT_PROVEN",
+  "scripted_authorized": true,
+  "paid_authorized": false,
+  "real_llm_authorized": false,
+  "materials_frozen": false,
+  "protocol_frozen": false,
+  "measurement_general_validity": "NOT_ESTABLISHED",
+  "SCA_status": "BLOCKED_OLD_REGISTRY_NOT_APPLICABLE"
+}

@@ -1,0 +1,13 @@
+{
+  "mode": "formal",
+  "status": "BLOCKED_PENDING_APPROVAL",
+  "real_llm_authorized": false,
+  "materials_frozen": false,
+  "paired_seeds": [
+    20271001,
+    20271002,
+    20271003
+  ],
+  "agents": 24,
+  "active_config": "studies/controlled_major/config/active_materials.json"
+}

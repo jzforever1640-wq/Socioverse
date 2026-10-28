@@ -1,0 +1,98 @@
+[
+  {
+    "agent_id": "A001",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A002",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A003",
+    "ses_group": "higher"
+  },
+  {
+    "agent_id": "A004",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A005",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A006",
+    "ses_group": "higher"
+  },
+  {
+    "agent_id": "A007",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A008",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A009",
+    "ses_group": "higher"
+  },
+  {
+    "agent_id": "A010",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A011",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A012",
+    "ses_group": "higher"
+  },
+  {
+    "agent_id": "A013",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A014",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A015",
+    "ses_group": "higher"
+  },
+  {
+    "agent_id": "A016",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A017",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A018",
+    "ses_group": "higher"
+  },
+  {
+    "agent_id": "A019",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A020",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A021",
+    "ses_group": "higher"
+  },
+  {
+    "agent_id": "A022",
+    "ses_group": "lower"
+  },
+  {
+    "agent_id": "A023",
+    "ses_group": "middle"
+  },
+  {
+    "agent_id": "A024",
+    "ses_group": "higher"
+  }
+]

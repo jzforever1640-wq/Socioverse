@@ -1,0 +1,52 @@
+[
+  {
+    "path": "shared/EXTERNAL_ARTIFACTS.json",
+    "sha256": "89d4145721fad65bb0a8665c394cdb058034c3a49943cd1b0b81bef0e3efed4d",
+    "bytes": 40762
+  },
+  {
+    "path": "shared/RUN_REGISTRY.json",
+    "sha256": "9c842f955eecf07c2be7d3749fbbd2f19834a611b4fbb5e10ca8d456873abacb",
+    "bytes": 5232
+  },
+  {
+    "path": "shared/a001/receipt.json",
+    "sha256": "e9c93e6946d977cc9d705568e1c1f2c6ef56ea90b32ab8a4faa5618137049351",
+    "bytes": 1458
+  },
+  {
+    "path": "shared/a001/summary.json",
+    "sha256": "87fe5f8f6bf910d18736c1d2faf9ded12684a52acbf82981b619860e522335d8",
+    "bytes": 482
+  },
+  {
+    "path": "shared/a001/usage.json",
+    "sha256": "7cafed97bb3743ada3f6033ed0ba2d7999575f7f9bbf872d71731d6f17030c93",
+    "bytes": 531
+  },
+  {
+    "path": "shared/connection/summary.json",
+    "sha256": "9f0b5cd2ef15c57794e64551aaed37c62dd59efb075c9e3660ea75cd0b324f58",
+    "bytes": 952
+  },
+  {
+    "path": "shared/population.json",
+    "sha256": "a3eb7aa07054aedea3f7966eaf72d61d72804cdf612b57f8a64b006ba51fa7a5",
+    "bytes": 1411
+  },
+  {
+    "path": "shared/scripted/exposures.json",
+    "sha256": "7c487ca4bd00fef17bb40e27dae8af6a8a452ef5ff214c0bec4195d12b9855c2",
+    "bytes": 1239253
+  },
+  {
+    "path": "shared/scripted/messages.json",
+    "sha256": "cca5d67c4bee1f28f2dd8f53fa5d34aa4ac2da965bdbd6c54bbb2382f68c45f2",
+    "bytes": 377081
+  },
+  {
+    "path": "shared/scripted/panels.json",
+    "sha256": "f676c21b7ee5d03c4a6cd78ccff06fd8311017e89ca44eb3387facd8be2c1fa9",
+    "bytes": 12287999
+  }
+]

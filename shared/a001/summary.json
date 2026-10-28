@@ -1,0 +1,18 @@
+{
+  "data_kind": "REAL_LLM_COMPONENT_DIAGNOSTIC",
+  "run_id": "DEEPSEEK_SINGLE_STUDENT_T1_V01",
+  "agent_id": "A001",
+  "seed": 20271001,
+  "step": 1,
+  "model": "deepseek-flash",
+  "calls": 3,
+  "input_tokens": 6045,
+  "output_tokens": 610,
+  "estimated_cost_cny": "0.016970",
+  "invoice_verified": false,
+  "fallback": false,
+  "status": "PASS_COMPONENT_INTERFACE_ONLY",
+  "private_scores": "WITHHELD_FROM_TEAM_EXPORT",
+  "P1_exposed": false,
+  "formal_effect_inference": false
+}

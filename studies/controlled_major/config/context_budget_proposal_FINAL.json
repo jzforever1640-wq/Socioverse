@@ -1,0 +1,19 @@
+{
+  "status": "PROPOSED_NOT_AUTHORIZED",
+  "selected_model": null,
+  "user_confirmed_model_not_selected": true,
+  "current_input_cap": 12288,
+  "current_output_cap": 1000,
+  "current_budget_validation": "SHORT_TRACE_ONLY_NOT_WORST_CASE",
+  "proposed_input_cap": 40960,
+  "proposed_output_cap": 8192,
+  "minimum_combined_context_requirement_before_model_overheads": 49152,
+  "history_policy": "KEEP_ALL_ALLOWED_HISTORY_NO_SILENT_TRIM",
+  "private_explanation_max_chars": 400,
+  "post_added_interpretation_max_chars": 400,
+  "post_body_max_chars": 180,
+  "judgment_reason_max_chars_each": 400,
+  "duplicate_parent_or_source_refs": "REJECT",
+  "real_llm_authorized": false,
+  "proposal_limit": "Local encodings and finite stress patterns only; unknown model/role/reasoning overhead not validated; exact preflight must fail closed."
+}

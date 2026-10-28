@@ -1,0 +1,623 @@
+{
+  "version": "P1-6CARD-v0.2-DRAFT-20261028",
+  "status": "PENDING_RESEARCHER_APPROVAL",
+  "cutoff": "2026-10-24T23:59:00+08:00",
+  "N1_active": false,
+  "S1": [
+    {
+      "id": "EXT:S01",
+      "title": "AI会压缩初级岗位吗",
+      "body": "一位论坛回复者认为，AI工具的生产力已超过初级开发者；但他也认为，近几年不会完全替代，AI与真实需求之间仍需要开发者，只是开发人数可能越来越少。这是他的个人判断。",
+      "sources": [
+        "X01"
+      ],
+      "locator": "回复 #11",
+      "change": "删除订阅价格和品牌；保留发言者对初级替代的判断及近年不会完全替代的限定。",
+      "visible_chars": 107,
+      "source_note": "V2EX论坛观点｜研究者转述",
+      "canonical_id": "EXT:S01",
+      "item_id": "K-941bf825bcaf",
+      "source_refs": [
+        "R-f3ae263cbb38"
+      ],
+      "full_text": "AI会压缩初级岗位吗\nV2EX论坛观点｜研究者转述\n一位论坛回复者认为，AI工具的生产力已超过初级开发者；但他也认为，近几年不会完全替代，AI与真实需求之间仍需要开发者，只是开发人数可能越来越少。这是他的个人判断。",
+      "body_chars": 81,
+      "version": "1.8B-MAT-v0.3-CANDIDATE",
+      "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+      "kind": "shock",
+      "verification": [
+        "CURRENT_PAGE_RECHECKED"
+      ],
+      "content_sha256": "d649a33b143e4a1b1ce2bd569d230ec17f7f07996ea56cb99974b8fca1c47f8c"
+    },
+    {
+      "id": "EXT:S02",
+      "title": "未来怎样招聘程序员",
+      "body": "一篇技术周刊提出，如果更多代码由AI生成，招聘或需考察工具使用和系统组织能力；作者同时承认，自己不确定哪些面试问题能有效筛选应聘者。这是作者的讨论，未给出企业招聘变化的统计。",
+      "sources": [
+        "ST019"
+      ],
+      "locator": "“未来如何招聘程序员”段",
+      "change": "仅纠正标题：技术招聘评论不是招聘会现场观察。",
+      "visible_chars": 110,
+      "source_note": "技术周刊评论｜研究者转述",
+      "canonical_id": "EXT:S02",
+      "item_id": "K-98ccefa075c9",
+      "source_refs": [
+        "R-e991d4bd30a6"
+      ],
+      "full_text": "未来怎样招聘程序员\n技术周刊评论｜研究者转述\n一篇技术周刊提出，如果更多代码由AI生成，招聘或需考察工具使用和系统组织能力；作者同时承认，自己不确定哪些面试问题能有效筛选应聘者。这是作者的讨论，未给出企业招聘变化的统计。",
+      "body_chars": 87,
+      "version": "1.8B-MAT-v0.3-CANDIDATE",
+      "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+      "kind": "shock",
+      "verification": [
+        "CURRENT_PAGE_RECHECKED"
+      ],
+      "content_sha256": "e850066951e36b12fa927498d08eaa261f8b10265c6fff7cfb811a45d8e71ef8"
+    },
+    {
+      "id": "EXT:S03",
+      "title": "有兴趣，也担忧毕业后的工作",
+      "body": "一位亲属发帖说，家中考生对软件开发有兴趣，高中自己做过导航网站。发帖亲属本人担忧，AI未来继续发展可能大幅减少低端程序员的机会，因此对是否建议报考有所顾虑。",
+      "sources": [
+        "N01"
+      ],
+      "locator": "主帖",
+      "change": "明确兴趣属于考生，担忧属于发帖亲属，不替考生赋予担忧。",
+      "visible_chars": 107,
+      "source_note": "V2EX亲属发帖｜研究者转述",
+      "canonical_id": "EXT:S03",
+      "item_id": "K-b00e591fbe50",
+      "source_refs": [
+        "R-0b7bd970f7e7"
+      ],
+      "full_text": "有兴趣，也担忧毕业后的工作\nV2EX亲属发帖｜研究者转述\n一位亲属发帖说，家中考生对软件开发有兴趣，高中自己做过导航网站。发帖亲属本人担忧，AI未来继续发展可能大幅减少低端程序员的机会，因此对是否建议报考有所顾虑。",
+      "body_chars": 78,
+      "version": "1.8B-MAT-v0.3-CANDIDATE",
+      "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+      "kind": "shock",
+      "verification": [
+        "CURRENT_PAGE_RECHECKED"
+      ],
+      "content_sha256": "b9efe307fcda300daa11a1456b368fcb66aa6c46ae9ab14877ebb17cb0907fc6"
+    },
+    {
+      "id": "EXT:S04",
+      "title": "招聘现场也有新需求",
+      "body": "央视2026年3月报道，北京春季招聘会有企业设置人工智能、机器人等科技创新岗位，同时面向应届生和社会招聘；受访企业表示更看重专业能力。报道还描述了员工与AI工具协同工作的实例。这是当地招聘现场的观察。",
+      "sources": [
+        "X02"
+      ],
+      "locator": "招聘会与人机协作段",
+      "change": "补报道时点和地方范围；保留岗位与人机协作观察，不作全国就业外推。",
+      "visible_chars": 125,
+      "source_note": "央视新闻现场报道｜研究者转述",
+      "canonical_id": "EXT:S04",
+      "item_id": "K-93cf2353cba9",
+      "source_refs": [
+        "R-ce26384a611b"
+      ],
+      "full_text": "招聘现场也有新需求\n央视新闻现场报道｜研究者转述\n央视2026年3月报道，北京春季招聘会有企业设置人工智能、机器人等科技创新岗位，同时面向应届生和社会招聘；受访企业表示更看重专业能力。报道还描述了员工与AI工具协同工作的实例。这是当地招聘现场的观察。",
+      "body_chars": 100,
+      "version": "1.8B-MAT-v0.3-CANDIDATE",
+      "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+      "kind": "shock",
+      "verification": [
+        "CURRENT_PAGE_RECHECKED"
+      ],
+      "content_sha256": "7928e2f4fca715cc1830faf2610a16b1d07d9ec062b41d95f9a6dfbf8525a715"
+    }
+  ],
+  "P1": [
+    {
+      "id": "PUB:P101",
+      "canonical_id": "PUB:P101",
+      "title": "AI编程工具能提高多少开发效率？",
+      "source_note": "微软研究、METR实验｜研究者转述",
+      "body": "三项企业随机实验涉及4867名软件开发者，随机给予部分人GitHub Copilot代码补全工具的使用资格。合并分析估计，实际使用工具者每周完成的代码合并请求数（研究的任务数量指标）提高约26%，但估计有较大不确定性；这不是所有获准使用者的简单平均，也不保证不同企业任务大小相同。\n\nMETR让16名熟悉自身开源项目的开发者完成246项真实任务；允许使用2025年初AI工具时，完成任务平均多花19%的时间。\n\nMETR在2026年更新中认为新工具可能更快，但开发者和任务的选择、报酬变化及同时使用多个编程代理的计时问题，使提效幅度难以可靠估计。\n\n这些研究的对象、工具、任务和指标不同；代码补全也不等于能自动执行多步任务的编程代理，不能由任务效率直接推断招聘人数。",
+      "sources": [
+        "MS",
+        "MIT_PAPER",
+        "METR25",
+        "METR26"
+      ],
+      "source_refs": [
+        "R-82741a831c6a",
+        "R-bec94e1d7d43",
+        "R-4537f5579e42",
+        "R-a448f0650725"
+      ],
+      "item_id": "K-f1b98f8bf59e",
+      "kind": "public",
+      "version": "P1-6CARD-v0.2-DRAFT-20261028",
+      "approval_status": "PENDING_RESEARCHER_APPROVAL",
+      "verification": [
+        "CLAIM_MATRIX_REVIEWED",
+        "HISTORICAL_BYTES_BEFORE_CUTOFF_UNVERIFIED"
+      ],
+      "locator": "见P1_CLAIM_SOURCE_MATRIX.csv",
+      "full_text": "AI编程工具能提高多少开发效率？\n微软研究、METR实验｜研究者转述\n三项企业随机实验涉及4867名软件开发者，随机给予部分人GitHub Copilot代码补全工具的使用资格。合并分析估计，实际使用工具者每周完成的代码合并请求数（研究的任务数量指标）提高约26%，但估计有较大不确定性；这不是所有获准使用者的简单平均，也不保证不同企业任务大小相同。\n\nMETR让16名熟悉自身开源项目的开发者完成246项真实任务；允许使用2025年初AI工具时，完成任务平均多花19%的时间。\n\nMETR在2026年更新中认为新工具可能更快，但开发者和任务的选择、报酬变化及同时使用多个编程代理的计时问题，使提效幅度难以可靠估计。\n\n这些研究的对象、工具、任务和指标不同；代码补全也不等于能自动执行多步任务的编程代理，不能由任务效率直接推断招聘人数。",
+      "visible_chars": 368,
+      "body_chars": 333,
+      "content_sha256": "65d322570482bb656eed7083527d069f92b944bc43089db4ace6aa8191fbbeb8",
+      "audit_recommendation": "APPROVE_WITH_CHANGES"
+    },
+    {
+      "id": "PUB:P102",
+      "canonical_id": "PUB:P102",
+      "title": "AI影响就业：哪些现象已经被观察到？",
+      "source_note": "ILO、斯坦福、工信部｜研究者转述",
+      "body": "国际劳工组织2025年估计，全球约四分之一的就业者处于某种程度暴露于生成式AI的职业中。这是依据职业任务评估的潜在影响，不是已消失岗位的比例。\n\n斯坦福2026年8月修订研究使用截至2026年6月的美国ADP工资记录：较高AI暴露职业中22—25岁就业人数，比按低暴露同龄职业趋势推算的水平低约19%，差异主要来自招聘减少。研究是描述性观察，未证明AI是原因；控制教育因素后差异减弱，部分趋势在生成式AI普及前已出现，ADP样本的差异也比全国调查更大。研究未发现全经济范围普遍岗位替代的证据，这不等于排除局部影响或未来变化。\n\n工信部公布2025年中国软件业务收入同比增长13.2%，收入增长不等于毕业生招聘增长。上述指标的对象和含义不同，不能相互抵消或据此预测中国某专业学生毕业后的就业。",
+      "sources": [
+        "ILO_FULL",
+        "STANFORD_PDF",
+        "MIIT"
+      ],
+      "source_refs": [
+        "R-36ebca443c21",
+        "R-9011ccb17747",
+        "R-a33cdca714d6"
+      ],
+      "item_id": "K-e437a6cac741",
+      "kind": "public",
+      "version": "P1-6CARD-v0.2-DRAFT-20261028",
+      "approval_status": "PENDING_RESEARCHER_APPROVAL",
+      "verification": [
+        "CLAIM_MATRIX_REVIEWED",
+        "HISTORICAL_BYTES_BEFORE_CUTOFF_UNVERIFIED"
+      ],
+      "locator": "见P1_CLAIM_SOURCE_MATRIX.csv",
+      "full_text": "AI影响就业：哪些现象已经被观察到？\nILO、斯坦福、工信部｜研究者转述\n国际劳工组织2025年估计，全球约四分之一的就业者处于某种程度暴露于生成式AI的职业中。这是依据职业任务评估的潜在影响，不是已消失岗位的比例。\n\n斯坦福2026年8月修订研究使用截至2026年6月的美国ADP工资记录：较高AI暴露职业中22—25岁就业人数，比按低暴露同龄职业趋势推算的水平低约19%，差异主要来自招聘减少。研究是描述性观察，未证明AI是原因；控制教育因素后差异减弱，部分趋势在生成式AI普及前已出现，ADP样本的差异也比全国调查更大。研究未发现全经济范围普遍岗位替代的证据，这不等于排除局部影响或未来变化。\n\n工信部公布2025年中国软件业务收入同比增长13.2%，收入增长不等于毕业生招聘增长。上述指标的对象和含义不同，不能相互抵消或据此预测中国某专业学生毕业后的就业。",
+      "visible_chars": 382,
+      "body_chars": 345,
+      "content_sha256": "145d0f78ad0e1c21d7c1f47b84c2c5301fc82a53c6d4dbecba266177f05063d3",
+      "audit_recommendation": "APPROVE_WITH_CHANGES"
+    },
+    {
+      "id": "PUB:P103",
+      "canonical_id": "PUB:P103",
+      "title": "计算机科学与技术：设计与理解计算系统",
+      "source_note": "高校本科培养资料、美国BLS职责｜研究者归纳",
+      "body": "计算机科学与技术不只是学习编写程序，还研究怎样使用算法、软件和计算机系统解决问题。高校资料中的课程示例涉及程序设计、数据结构与算法、计算机体系结构、操作系统、计算机网络、软件工程等，部分培养方向还包含人工智能、信息安全、数据库及计算机视觉。\n\n以开发一套在线服务为例（任务分工参考含美国职责资料），相关任务可能包括分析用户需求、设计数据结构和系统架构、实现功能、测试安全性与性能，以及维护软件运行。这是帮助理解专业应用的假想案例。\n\n这些知识的应用方向包括软件系统研发、计算基础设施、网络与安全、智能应用等；这些方向不是毕业生就业去向统计。与统计学都可能使用数据和算法，与自动化也可能在嵌入式系统、机器人等领域交叉，但计算机专业更直接关注计算系统本身的设计与实现。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "sources": [
+        "CS_THU_PDF",
+        "CS_SHT",
+        "CS_PKU",
+        "BLS_SW"
+      ],
+      "source_refs": [
+        "R-995ba0d7128a",
+        "R-e48e184ebff8",
+        "R-24b987f024a1",
+        "R-379919351295"
+      ],
+      "item_id": "K-a81507dc36b1",
+      "kind": "public",
+      "version": "P1-6CARD-v0.2-DRAFT-20261028",
+      "approval_status": "PENDING_RESEARCHER_APPROVAL",
+      "verification": [
+        "CLAIM_MATRIX_REVIEWED",
+        "HISTORICAL_BYTES_BEFORE_CUTOFF_UNVERIFIED"
+      ],
+      "locator": "见P1_CLAIM_SOURCE_MATRIX.csv",
+      "full_text": "计算机科学与技术：设计与理解计算系统\n高校本科培养资料、美国BLS职责｜研究者归纳\n计算机科学与技术不只是学习编写程序，还研究怎样使用算法、软件和计算机系统解决问题。高校资料中的课程示例涉及程序设计、数据结构与算法、计算机体系结构、操作系统、计算机网络、软件工程等，部分培养方向还包含人工智能、信息安全、数据库及计算机视觉。\n\n以开发一套在线服务为例（任务分工参考含美国职责资料），相关任务可能包括分析用户需求、设计数据结构和系统架构、实现功能、测试安全性与性能，以及维护软件运行。这是帮助理解专业应用的假想案例。\n\n这些知识的应用方向包括软件系统研发、计算基础设施、网络与安全、智能应用等；这些方向不是毕业生就业去向统计。与统计学都可能使用数据和算法，与自动化也可能在嵌入式系统、机器人等领域交叉，但计算机专业更直接关注计算系统本身的设计与实现。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "visible_chars": 427,
+      "body_chars": 385,
+      "content_sha256": "5371e2ea60cae9ebb0d9493019acc2af56cf14eb07d88a2bd81491c277bdf3d8",
+      "audit_recommendation": "APPROVE_WITH_CHANGES"
+    },
+    {
+      "id": "PUB:P104",
+      "canonical_id": "PUB:P104",
+      "title": "自动化：感知、决策与控制实际系统",
+      "source_note": "高校本科培养资料｜研究者归纳",
+      "body": "自动化专业研究如何利用测量、计算和控制，使设备或复杂系统按照预期目标运行。高校资料中的学习内容涉及电路与电子技术、信号与系统、传感检测、自动控制、计算机程序设计和系统建模，也可能进一步学习机器人、智能系统、工业过程控制等方向。\n\n例如，要让机器人稳定完成搬运任务，相关工作可能包括采集传感器数据、估计运动状态、设计控制算法、驱动执行机构，并在真实设备上调试误差和异常。这是研究者构造的解释性任务示例，不代表所有自动化工作。\n\n工业控制、智能装备、机器人系统及自动化设备研发与集成，是这些知识的应用方向示例，不是毕业生就业去向统计。它与计算机专业在软件和算法方面有交叉，与电气专业在电机与控制方面也有交叉，但通常更关注信息如何通过反馈与控制作用于实际系统。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "sources": [
+        "AUTO_THU_PDF",
+        "AUTO_SJTU"
+      ],
+      "source_refs": [
+        "R-4e99a1771f53",
+        "R-d9eac2da3bc0"
+      ],
+      "item_id": "K-876b260b8e80",
+      "kind": "public",
+      "version": "P1-6CARD-v0.2-DRAFT-20261028",
+      "approval_status": "PENDING_RESEARCHER_APPROVAL",
+      "verification": [
+        "CLAIM_MATRIX_REVIEWED",
+        "HISTORICAL_BYTES_BEFORE_CUTOFF_UNVERIFIED"
+      ],
+      "locator": "见P1_CLAIM_SOURCE_MATRIX.csv",
+      "full_text": "自动化：感知、决策与控制实际系统\n高校本科培养资料｜研究者归纳\n自动化专业研究如何利用测量、计算和控制，使设备或复杂系统按照预期目标运行。高校资料中的学习内容涉及电路与电子技术、信号与系统、传感检测、自动控制、计算机程序设计和系统建模，也可能进一步学习机器人、智能系统、工业过程控制等方向。\n\n例如，要让机器人稳定完成搬运任务，相关工作可能包括采集传感器数据、估计运动状态、设计控制算法、驱动执行机构，并在真实设备上调试误差和异常。这是研究者构造的解释性任务示例，不代表所有自动化工作。\n\n工业控制、智能装备、机器人系统及自动化设备研发与集成，是这些知识的应用方向示例，不是毕业生就业去向统计。它与计算机专业在软件和算法方面有交叉，与电气专业在电机与控制方面也有交叉，但通常更关注信息如何通过反馈与控制作用于实际系统。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "visible_chars": 412,
+      "body_chars": 380,
+      "content_sha256": "01647f7701369e57bf4a5838419c3be1a37c1aa8fb5c7a3b535fa146f8077b3c",
+      "audit_recommendation": "APPROVE_WITH_CHANGES"
+    },
+    {
+      "id": "PUB:P105",
+      "canonical_id": "PUB:P105",
+      "title": "电气工程及其自动化：电能与电气系统",
+      "source_note": "高校本科培养资料｜研究者归纳",
+      "body": "电气工程及其自动化主要研究电能及电气系统的转换、传输、控制和利用。高校资料中的课程示例涉及电路、电磁场、电机学、电力电子、电力系统分析、自动控制等，也可能延伸到新能源并网、储能、高电压与电气设备等方向。\n\n例如，设计一套设备供电系统，相关工作可能需要分析电压和功率需求、选择电能转换方案、考虑设备运行安全与效率，并通过实验和仿真验证系统。这是研究者构造的解释性任务示例，并非真实岗位的完整流程。\n\n电气设备研发、电力系统规划与运行、电力电子、能源转换及电气控制，是相关知识的应用方向示例，不是毕业生就业去向统计。它与自动化、计算机在控制算法、嵌入式系统和软件工具上存在交叉，但专业核心更集中在电能、电磁过程和电气系统。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "sources": [
+        "EE_THU"
+      ],
+      "source_refs": [
+        "R-f021fb4f6420"
+      ],
+      "item_id": "K-c91e9ef8e6cc",
+      "kind": "public",
+      "version": "P1-6CARD-v0.2-DRAFT-20261028",
+      "approval_status": "PENDING_RESEARCHER_APPROVAL",
+      "verification": [
+        "CLAIM_MATRIX_REVIEWED",
+        "HISTORICAL_BYTES_BEFORE_CUTOFF_UNVERIFIED"
+      ],
+      "locator": "见P1_CLAIM_SOURCE_MATRIX.csv",
+      "full_text": "电气工程及其自动化：电能与电气系统\n高校本科培养资料｜研究者归纳\n电气工程及其自动化主要研究电能及电气系统的转换、传输、控制和利用。高校资料中的课程示例涉及电路、电磁场、电机学、电力电子、电力系统分析、自动控制等，也可能延伸到新能源并网、储能、高电压与电气设备等方向。\n\n例如，设计一套设备供电系统，相关工作可能需要分析电压和功率需求、选择电能转换方案、考虑设备运行安全与效率，并通过实验和仿真验证系统。这是研究者构造的解释性任务示例，并非真实岗位的完整流程。\n\n电气设备研发、电力系统规划与运行、电力电子、能源转换及电气控制，是相关知识的应用方向示例，不是毕业生就业去向统计。它与自动化、计算机在控制算法、嵌入式系统和软件工具上存在交叉，但专业核心更集中在电能、电磁过程和电气系统。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "visible_chars": 395,
+      "body_chars": 362,
+      "content_sha256": "0ce780cfbf190a20f580215547d1790802545b9e6b8a5b45bd0f1bfa26d6ec0b",
+      "audit_recommendation": "APPROVE_WITH_CHANGES"
+    },
+    {
+      "id": "PUB:P106",
+      "canonical_id": "PUB:P106",
+      "title": "统计学：利用数据进行推断与决策分析",
+      "source_note": "高校本科培养资料｜研究者归纳",
+      "body": "统计学研究如何从有限且存在随机性的数据中获取可靠信息。高校资料重视数学与概率基础，学习数理统计、回归分析、抽样调查、试验设计、时间序列、统计计算等，也可能学习统计学习与现代数据建模方法。\n\n例如，企业希望判断某种新生产流程是否真正改善产品质量，统计工作不只是计算两组平均数，还可能需要设计抽样方案、考虑样本差异和其他影响因素、估计结果的不确定性，并判断现有数据能否支持结论。这是研究者构造的解释性任务示例。\n\n科学研究、公共调查、生产质量分析和数据建模，是统计方法的应用场景示例；其中质量分析是研究者据试验设计作的应用归纳，并非就业去向统计。它与计算机专业都可能使用编程和机器学习，但更直接强调数据采集方法、统计假设、推断及不确定性解释。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "sources": [
+        "STAT_PKU",
+        "STAT_PKU_PDF",
+        "STAT_PKU_COURSE"
+      ],
+      "source_refs": [
+        "R-1903c9d0808c",
+        "R-309dc4f519b0",
+        "R-829a1028d45f"
+      ],
+      "item_id": "K-9417c09bb0fc",
+      "kind": "public",
+      "version": "P1-6CARD-v0.2-DRAFT-20261028",
+      "approval_status": "PENDING_RESEARCHER_APPROVAL",
+      "verification": [
+        "CLAIM_MATRIX_REVIEWED",
+        "HISTORICAL_BYTES_BEFORE_CUTOFF_UNVERIFIED"
+      ],
+      "locator": "见P1_CLAIM_SOURCE_MATRIX.csv",
+      "full_text": "统计学：利用数据进行推断与决策分析\n高校本科培养资料｜研究者归纳\n统计学研究如何从有限且存在随机性的数据中获取可靠信息。高校资料重视数学与概率基础，学习数理统计、回归分析、抽样调查、试验设计、时间序列、统计计算等，也可能学习统计学习与现代数据建模方法。\n\n例如，企业希望判断某种新生产流程是否真正改善产品质量，统计工作不只是计算两组平均数，还可能需要设计抽样方案、考虑样本差异和其他影响因素、估计结果的不确定性，并判断现有数据能否支持结论。这是研究者构造的解释性任务示例。\n\n科学研究、公共调查、生产质量分析和数据建模，是统计方法的应用场景示例；其中质量分析是研究者据试验设计作的应用归纳，并非就业去向统计。它与计算机专业都可能使用编程和机器学习，但更直接强调数据采集方法、统计假设、推断及不确定性解释。\n\n以上是已核高校资料中的示例，各校安排不同。专业与职业并非一一对应，不代表招聘数量、收入或AI替代风险。",
+      "visible_chars": 405,
+      "body_chars": 372,
+      "content_sha256": "92a4f7ce061c51561c244e2afe34a9139f7978357430864eae1901c99b1985e4",
+      "audit_recommendation": "APPROVE_WITH_CHANGES"
+    }
+  ],
+  "F": {
+    "2": [
+      {
+        "id": "EXT:F201",
+        "title": "AI裁员也有另一种解释",
+        "body": "一位回复者认为，企业把裁员部分归于AI，也可能是在向投资者展示AI投入成效。他是在提出一种解释，未提供可以核对的企业记录。",
+        "sources": [
+          "N05"
+        ],
+        "locator": "回复 #14",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 88,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F201",
+        "item_id": "K-db0cd460b4de",
+        "source_refs": [
+          "R-bec0621cf633"
+        ],
+        "full_text": "AI裁员也有另一种解释\nV2EX论坛观点｜研究者转述\n一位回复者认为，企业把裁员部分归于AI，也可能是在向投资者展示AI投入成效。他是在提出一种解释，未提供可以核对的企业记录。",
+        "body_chars": 61,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_PARTIAL_RECHECKED"
+        ],
+        "content_sha256": "098c5a913a6e66ec47091d68275dea23c7a2ae5c7832a22d2fe48a7ab7b22657"
+      },
+      {
+        "id": "EXT:F202",
+        "title": "未来不确定，仍可有条件选择",
+        "body": "一位发帖人自述用AI制作内部工具，需要自己验收数据、流程和失败处理。他表示，如果给亲属建议，会说可以选计算机，但别期望一门技术稳定用十年。",
+        "sources": [
+          "N08"
+        ],
+        "locator": "主帖",
+        "change": "明确原帖是如果给亲属建议会怎样说，避免把条件建议写成已发生的劝说。",
+        "visible_chars": 98,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F202",
+        "item_id": "K-93c8468abae5",
+        "source_refs": [
+          "R-5b1706df75e1"
+        ],
+        "full_text": "未来不确定，仍可有条件选择\nV2EX论坛观点｜研究者转述\n一位发帖人自述用AI制作内部工具，需要自己验收数据、流程和失败处理。他表示，如果给亲属建议，会说可以选计算机，但别期望一门技术稳定用十年。",
+        "body_chars": 69,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_AND_LOCAL_SNAPSHOT_RECHECKED"
+        ],
+        "content_sha256": "6deaf62765468d0c172086455fce1a861c8c35432b8a6393e3ba36d468002258"
+      },
+      {
+        "id": "EXT:F203",
+        "title": "兴趣与现实选择并存",
+        "body": "一位自述高三毕业生的用户说，网上一些关于计算机专业的信息让人却步，但自己仍有较强意愿报考计算机，希望得到参考。",
+        "sources": [
+          "N03"
+        ],
+        "locator": "主帖",
+        "change": "删除院校范围限制；保留原帖面对劝退信息仍有较强CS意愿、向论坛求参考的态度。",
+        "visible_chars": 80,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F203",
+        "item_id": "K-ed51197146c4",
+        "source_refs": [
+          "R-bb1d15e59154"
+        ],
+        "full_text": "兴趣与现实选择并存\nV2EX论坛观点｜研究者转述\n一位自述高三毕业生的用户说，网上一些关于计算机专业的信息让人却步，但自己仍有较强意愿报考计算机，希望得到参考。",
+        "body_chars": 55,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_RECHECKED"
+        ],
+        "content_sha256": "0efe8a58e7bae2a3ef82d91f962096aab46591c32fe7b17127dc7c2a12f94ac1"
+      },
+      {
+        "id": "EXT:F204",
+        "title": "替代会不会继续扩大",
+        "body": "一位论坛回复者自述，公司已强制采用覆盖需求、方案、开发、测试和评审的流程，因此感到五年后可能不乐观；这是他的工作经历及预期。",
+        "sources": [
+          "X01"
+        ],
+        "locator": "回复 #19",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 87,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F204",
+        "item_id": "K-414a72a66807",
+        "source_refs": [
+          "R-f3ae263cbb38"
+        ],
+        "full_text": "替代会不会继续扩大\nV2EX论坛观点｜研究者转述\n一位论坛回复者自述，公司已强制采用覆盖需求、方案、开发、测试和评审的流程，因此感到五年后可能不乐观；这是他的工作经历及预期。",
+        "body_chars": 62,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_RECHECKED"
+        ],
+        "content_sha256": "4bb5fb323f27f64ed3dc32cb7a85775ebab4fc1016437494bfd08d452f3f756d"
+      }
+    ],
+    "3": [
+      {
+        "id": "EXT:F301",
+        "title": "预算也是裁员解释之一",
+        "body": "一位回复者自述公司持续裁员，认为原因是高层降本指标，而非AI冲击；他还描述了裁掉外包后又补招外包的反复。",
+        "sources": [
+          "N06"
+        ],
+        "locator": "回复 #2",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 78,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F301",
+        "item_id": "K-2c6ff62379ce",
+        "source_refs": [
+          "R-f961cfccd4a6"
+        ],
+        "full_text": "预算也是裁员解释之一\nV2EX论坛观点｜研究者转述\n一位回复者自述公司持续裁员，认为原因是高层降本指标，而非AI冲击；他还描述了裁掉外包后又补招外包的反复。",
+        "body_chars": 52,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_RECHECKED"
+        ],
+        "content_sha256": "12069ec5905fe26eeec6cf599e456123d0d3b30e02636880c884e232d05a1ff5"
+      },
+      {
+        "id": "EXT:F302",
+        "title": "亲属也在权衡建议",
+        "body": "一位计算机从业者自述家中是普通工薪家庭，自己倾向建议亲属选择计算机，同时也说当前计算机就业环境不好，并向论坛询问看法。",
+        "sources": [
+          "N02"
+        ],
+        "locator": "主帖",
+        "change": "删除学校和城市选择；不添加原帖未明示的考生兴趣或家庭动机。",
+        "visible_chars": 83,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F302",
+        "item_id": "K-5047026f33e7",
+        "source_refs": [
+          "R-fefeac4156fa"
+        ],
+        "full_text": "亲属也在权衡建议\nV2EX论坛观点｜研究者转述\n一位计算机从业者自述家中是普通工薪家庭，自己倾向建议亲属选择计算机，同时也说当前计算机就业环境不好，并向论坛询问看法。",
+        "body_chars": 59,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_RECHECKED"
+        ],
+        "content_sha256": "6466d612b96b9b62a01918b88bef6a445e623c00e5065eed1de9e3527d4e21aa"
+      },
+      {
+        "id": "EXT:F303",
+        "title": "论坛话题变化意味着什么",
+        "body": "一位发帖者观察到，论坛里似乎少见失业焦虑，更多人在讨论怎样使用AI，因而提出疑问。他说的是自己看到的话题变化。",
+        "sources": [
+          "C4=ST020"
+        ],
+        "locator": "主帖",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 82,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F303",
+        "item_id": "K-370d56bc5e45",
+        "source_refs": [
+          "R-ef8c75753113"
+        ],
+        "full_text": "论坛话题变化意味着什么\nV2EX论坛观点｜研究者转述\n一位发帖者观察到，论坛里似乎少见失业焦虑，更多人在讨论怎样使用AI，因而提出疑问。他说的是自己看到的话题变化。",
+        "body_chars": 55,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_DATE_UNVERIFIED"
+        ],
+        "content_sha256": "348b018209bed8387ed9f451ba56d9dd6383780fad6e2ed661d520e2d9eaf4ac"
+      },
+      {
+        "id": "EXT:F304",
+        "title": "工具会改变招聘问题吗",
+        "body": "一篇技术周刊讨论，使用AI工具的能力可能成为招聘考察内容；作者列出设想后又承认，无法确定这些问题是否有效。这是对面试方式的讨论，不是已经实施的通用招聘规则。",
+        "sources": [
+          "ST019"
+        ],
+        "locator": "“未来如何招聘程序员”段",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 102,
+        "source_note": "技术周刊评论｜研究者转述",
+        "canonical_id": "EXT:F304",
+        "item_id": "K-efba977eff5d",
+        "source_refs": [
+          "R-e991d4bd30a6"
+        ],
+        "full_text": "工具会改变招聘问题吗\n技术周刊评论｜研究者转述\n一篇技术周刊讨论，使用AI工具的能力可能成为招聘考察内容；作者列出设想后又承认，无法确定这些问题是否有效。这是对面试方式的讨论，不是已经实施的通用招聘规则。",
+        "body_chars": 78,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_RECHECKED"
+        ],
+        "content_sha256": "84a40686d2fd6be09482748401b129a3a65e3b5634e85fb3372c5da719744885"
+      }
+    ],
+    "4": [
+      {
+        "id": "EXT:F401",
+        "title": "个人经历并不相同",
+        "body": "在讨论AI裁员的帖子中，一位回复者说，自己身边没有因AI失业的人，公司主要鼓励使用AI；他也认为，管理层推动使用工具可能与内部考核有关。这是个人经历和解释，未提供总体就业统计。",
+        "sources": [
+          "N05"
+        ],
+        "locator": "回复 #5",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 112,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F401",
+        "item_id": "K-538c5da2489b",
+        "source_refs": [
+          "R-bec0621cf633"
+        ],
+        "full_text": "个人经历并不相同\nV2EX论坛观点｜研究者转述\n在讨论AI裁员的帖子中，一位回复者说，自己身边没有因AI失业的人，公司主要鼓励使用AI；他也认为，管理层推动使用工具可能与内部考核有关。这是个人经历和解释，未提供总体就业统计。",
+        "body_chars": 88,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_PARTIAL_RECHECKED"
+        ],
+        "content_sha256": "f23dd10bc97f683e4ef30214fc7f7bba4445cc8ac2d21f9c6f66d426d5097106"
+      },
+      {
+        "id": "EXT:F402",
+        "title": "业务需求的竞争性解释",
+        "body": "一位回复者说，自己认识的失业者并非因为AI，而是没有业务和愿意付费的需求；他把当前情况理解为互联网泡沫破裂。",
+        "sources": [
+          "N06"
+        ],
+        "locator": "回复 #19",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 80,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F402",
+        "item_id": "K-2d3808cea347",
+        "source_refs": [
+          "R-f961cfccd4a6"
+        ],
+        "full_text": "业务需求的竞争性解释\nV2EX论坛观点｜研究者转述\n一位回复者说，自己认识的失业者并非因为AI，而是没有业务和愿意付费的需求；他把当前情况理解为互联网泡沫破裂。",
+        "body_chars": 54,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_RECHECKED"
+        ],
+        "content_sha256": "4ac65558a61ceeaeb1177b3b310fab0ba633205a883becb7bdaeeb340c54e848"
+      },
+      {
+        "id": "EXT:F403",
+        "title": "个人立场也可保留",
+        "body": "一位自述二本计算机毕业的回复者仍推荐这个专业，理由包括能用代码构建想要的东西；同时建议保持成绩并在学校课程外学习。他也认为当前就业状况不好。",
+        "sources": [
+          "N03"
+        ],
+        "locator": "回复 #17",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 94,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F403",
+        "item_id": "K-cc2f95d4f1a8",
+        "source_refs": [
+          "R-bb1d15e59154"
+        ],
+        "full_text": "个人立场也可保留\nV2EX论坛观点｜研究者转述\n一位自述二本计算机毕业的回复者仍推荐这个专业，理由包括能用代码构建想要的东西；同时建议保持成绩并在学校课程外学习。他也认为当前就业状况不好。",
+        "body_chars": 70,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_RECHECKED"
+        ],
+        "content_sha256": "a83f5fe44dd272e8e363f496e11fde116c223d01f981742b423a18fc6e882baa"
+      },
+      {
+        "id": "EXT:F404",
+        "title": "AI协作还需要验收",
+        "body": "一位发帖者说，自己很多年不逐行写代码，AI能帮助制作内部工具；但他仍要确认结果是否符合业务，流程是否能跑、错误能否回滚。",
+        "sources": [
+          "N08"
+        ],
+        "locator": "主帖",
+        "change": "标题与正文逐字保留v0.1；更新统一组件和真实来源性质说明。",
+        "visible_chars": 85,
+        "source_note": "V2EX论坛观点｜研究者转述",
+        "canonical_id": "EXT:F404",
+        "item_id": "K-264ebfde48db",
+        "source_refs": [
+          "R-5b1706df75e1"
+        ],
+        "full_text": "AI协作还需要验收\nV2EX论坛观点｜研究者转述\n一位发帖者说，自己很多年不逐行写代码，AI能帮助制作内部工具；但他仍要确认结果是否符合业务，流程是否能跑、错误能否回滚。",
+        "body_chars": 60,
+        "version": "1.8B-MAT-v0.3-CANDIDATE",
+        "approval_status": "TEXT_FINAL_CONFIRMATION_PENDING",
+        "kind": "static",
+        "verification": [
+          "CURRENT_PAGE_AND_LOCAL_SNAPSHOT_RECHECKED"
+        ],
+        "content_sha256": "3054793f57a3097e4efeae858b1f7e9324307729d051bb9c89a43d7db977fc24"
+      }
+    ]
+  },
+  "fixed_visible_limit": 220,
+  "dynamic_body_limit": 180,
+  "fixed_public_card_limit": 1024,
+  "fixed_social_card_limit": 220,
+  "real_llm_authorized": false
+}
