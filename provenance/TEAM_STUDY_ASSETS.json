@@ -27,9 +27,10 @@
   "studies/controlled_major/scripts/materials_adapter.py": "067ed3ca6936901f1807984b609d8528a1e7b52e871b3d0f8b118a26818a12f5",
   "studies/controlled_major/scripts/measurement_sidecar.py": "201d53dbf9d6e1441116e9c0f470ea7316b304dba0c39c93bbeb12e15fe8fce8",
   "studies/controlled_major/scripts/pilot_preflight.py": "d77174549f6f4bf374d6cb4e9398a84f4f23302fbb30c3651aa33e027e31709d",
-  "studies/controlled_major/scripts/private_bank.py": "5beefd089de6e94cd690510d6d83fa417ffeab724c49c6d83194611dc7cc6d70",
+  "studies/controlled_major/scripts/private_bank.py": "24ce7f4fe237fe256798a3523eb2ec48c07eb3174330b25c2c47e4b03708ed97",
   "studies/controlled_major/scripts/private_llm_measurement.py": "c54d7bb146dacbb8dead6c6c063bc44a0557228805eb999e474823c5927bd5b4",
   "studies/controlled_major/scripts/run_native_scripted.py": "5619b3b74e5b3b26806cf104ee6b1bd0edf671ff7d3d9ae547052136d9be5990",
   "studies/controlled_major/scripts/setup_scripted.sh": "2c847b8334fa87853520f2da6d7c75fb55114ddda2106c414d8687801db7fac9",
-  "studies/controlled_major/scripts/test_phase18.py": "8958da96c7b4044d9e63e7ac7a0c5a40ba240d9c6e87fea4c1c3b90b34a9a6dc"
+  "studies/controlled_major/scripts/test_phase18.py": "8958da96c7b4044d9e63e7ac7a0c5a40ba240d9c6e87fea4c1c3b90b34a9a6dc",
+  "studies/controlled_major/inputs/EJQ_forms_PRIVATE_DRAFT.jsonl": "3e0b15738543c2b1c05a9abb26be2d0e04fd2196542eb41c0b4afcb153975d1a"
 }

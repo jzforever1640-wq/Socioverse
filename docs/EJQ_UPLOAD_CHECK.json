@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-29",
+  "bank_items": 32,
+  "forms": 4,
+  "original_bank_hash_matches": true,
+  "scripted_panel_rows_equal": 576,
+  "form_scoring_checks": "PASS_FOUR_FORMS_ORIGINAL_KEYS",
+  "changed_bank_rejected": true,
+  "api_calls": 0,
+  "upload_scope": "Original bank and answer index only; no individual scores or request logs",
+  "external_index_note": "shared/EXTERNAL_ARTIFACTS.json remains the pre-upload snapshot; current instrument access is recorded in provenance/EJQ_REPOSITORY_ACCESS.json"
+}

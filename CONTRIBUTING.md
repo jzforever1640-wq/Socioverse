@@ -4,7 +4,7 @@
 
 修改材料、人口/网络、评分规则或 Primary 时必须单独 PR，由研究者明确批准；软件维护者的通过、CI 绿色或模型建议均不是研究批准。新批准追加 DECISION_LOG，注明批准人、日期、范围、材料 hash 和证据链接，不改写旧记录。不凭历史条件批准推定新逐字文本批准。
 
-合并至少一位非作者代码审核；涉及研究方法需研究负责人另行审核。EJQ 评分 PR 还需测量负责人审核；不向普通协作者提供题库。主分支保护和 CODEOWNERS 的实际成员需研究者在 GitHub 配置，当前模板不声称已强制。
+合并至少一位非作者代码审核；涉及研究方法需研究负责人另行审核。EJQ 评分 PR 还需测量负责人审核；原题库与答案已由研究者授权向仓库所有读取者开放；未经批准不得改题、改键或将逐题响应及单人分数上传。主分支保护和 CODEOWNERS 的实际成员需研究者在 GitHub 配置，当前模板不声称已强制。
 
 每个 PR 运行 README 的 test、analyze、report 和 `python tools/review_export.py`。CI 不配置 DeepSeek 或任何模型密钥；仅授予 contents:read。PR 测试只执行 scripted；禁止 pull_request_target 执行贡献者代码。
 

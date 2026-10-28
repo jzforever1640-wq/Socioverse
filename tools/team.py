@@ -29,16 +29,24 @@ def test():
   try:runner().run(20271001,out)
   except FileExistsError:pass
   else:raise AssertionError('Must refuse overwrite')
- # Ensure ordinary collaborators cannot accidentally load the private instrument.
+ # Authorized bank is available locally; loading remains offline and hash checked.
  os.environ.pop('SV2_EJQ_BANK',None)
- from ejq_alignment import items
- try:items('A')
- except KeyError:pass
- else:raise AssertionError('Private bank must fail closed')
+ from ejq_alignment import items,score_answers
+ for form in 'ABCD':
+  qs=items(form);assert len(qs)==8
+  reply=[{'item_id':q['item_id'],**q['answer_key']} for q in qs]
+  assert score_answers(form,reply)['total']==16
+ with tempfile.TemporaryDirectory() as d:
+  bad=Path(d)/'bank.jsonl';bad.write_text('{}')
+  os.environ['SV2_EJQ_BANK']=str(bad)
+  try:items('A')
+  except ValueError as e:assert 'HASH_MISMATCH' in str(e)
+  else:raise AssertionError('Changed bank must fail closed')
+  finally:os.environ.pop('SV2_EJQ_BANK',None)
  try:socket.create_connection(('example.invalid',443))
  except RuntimeError:pass
  else:raise AssertionError('Network guard absent')
- print('PASS: 576 exact saved panel comparisons; four-arm invariants; 0 API calls; no key/bank; overwrite rejected; network blocked.')
+ print('PASS: 576 exact saved panel comparisons; four-arm invariants; 0 API calls; no API key; authorized 32-item bank checked; overwrite rejected; network blocked.')
 
 def analysis():
  verify();panels=load('shared/scripted/panels.json');exposures=load('shared/scripted/exposures.json')

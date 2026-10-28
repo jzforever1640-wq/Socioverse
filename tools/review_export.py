@@ -5,11 +5,14 @@ R=Path(__file__).resolve().parents[1]
 files=subprocess.check_output(['git','ls-files'],cwd=R,text=True).splitlines()
 if not files:
  files=[str(p.relative_to(R)) for p in R.rglob('*') if p.is_file() and not any(x in p.parts for x in ['.git','__pycache__','.venv','artifacts-local','runs']) and not p.name.endswith('.pyc')]
+allowed=json.loads((R/'provenance/EJQ_REPOSITORY_ACCESS.json').read_text())['allowed_files']
 violations=[]
 for name in files:
  p=R/name
+ authorized_instrument=name in allowed
  if not p.exists():violations.append([name,'missing']);continue
- if p.name.startswith('.env') or p.suffix in ['.duckdb','.parquet','.pem','.key'] or p.name in ['requests.jsonl','EJQ_forms_PRIVATE_DRAFT.jsonl','ANSWER_KEYS.json']:
+ if authorized_instrument and hashlib.sha256(p.read_bytes()).hexdigest()!=allowed[name]:violations.append([name,'instrument hash differs from researcher-authorized version'])
+ if p.name.startswith('.env') or p.suffix in ['.duckdb','.parquet','.pem','.key'] or p.name=='requests.jsonl' or (p.name in ['EJQ_forms_PRIVATE_DRAFT.jsonl','ANSWER_KEYS.json'] and not authorized_instrument):
   violations.append([name,'forbidden artifact'])
  try:t=p.read_text()
  except UnicodeError:violations.append([name,'unreviewed binary']);continue
@@ -21,7 +24,7 @@ for name in files:
   except ValueError:violations.append([name,'invalid JSON']);continue
   def walk(x):
    if isinstance(x,dict):
-    if 'answer_key' in x or 'tier1_options' in x or 'tier2_options' in x:violations.append([name,'private instrument structure'])
+    if not authorized_instrument and ('answer_key' in x or 'tier1_options' in x or 'tier2_options' in x):violations.append([name,'private instrument structure'])
     for v in x.values():walk(v)
    elif isinstance(x,list):
     for v in x:walk(v)

@@ -13,7 +13,7 @@
 
 唯一 Primary 是 feedback OFF 下 t5 CS 意愿的 E3−E1 配对支持差：mean_i[(I_CS_E3_t5−I_CS_COMMON_t1)−(I_CS_E1_t5−I_CS_COMMON_t1)]。分析单位为整组配对 seed/网络，固定24；三 seed 描述均值与范围。SES 仅描述，不做 SES 因果或显著性声称。其他比较保持 secondary/exploratory；不能看输出改 Primary。测量 T0=0、T1=1、T2=2、T3=5；t3/t4 NOT_SCHEDULED，缺失不能填0。
 
-私有只读 sidecar 测量不得进入行为 Action、AgentMemory 或后续同伴上下文；意愿与风险不传入 EJQ 请求；EJQ 请求无答案键。两层原评分保留，辅助维度仍 proposed。题库由测量负责人保管；仓库外加载。
+私有只读 sidecar 测量不得进入行为 Action、AgentMemory 或后续同伴上下文；意愿与风险不传入 EJQ 请求；EJQ 请求无答案键。两层原评分保留，辅助维度仍 proposed。研究者已授权将原题库与答案键共享给当前私有仓库所有读取者；默认从仓库内加载并校验原hash。此访问授权不改变评分、行为隔离或真实运行审批。
 
 当前材料 P1-6CARD-v0.2-DRAFT-20261028 是六卡候选，不是冻结版本。旧 analysis_protocol_DRAFT.json 内 materials_version 仍写三卡版本；此不一致保留为历史元数据，不覆盖它，运行须以 active_materials 与实际资产 hash 明确绑定六卡。所有源文本截止规则 2026-10-24 23:59 UTC+8，事后取回不能证明历史字节。
 

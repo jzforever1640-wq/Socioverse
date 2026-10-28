@@ -1,0 +1,130 @@
+{
+  "A01": {
+    "tier1": "A",
+    "tier2": "A"
+  },
+  "A02": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "A03": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "A04": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "A05": {
+    "tier1": "A",
+    "tier2": "A"
+  },
+  "A06": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "A07": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "A08": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "B01": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "B02": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "B03": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "B04": {
+    "tier1": "A",
+    "tier2": "A"
+  },
+  "B05": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "B06": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "B07": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "B08": {
+    "tier1": "A",
+    "tier2": "A"
+  },
+  "C01": {
+    "tier1": "A",
+    "tier2": "A"
+  },
+  "C02": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "C03": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "C04": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "C05": {
+    "tier1": "A",
+    "tier2": "A"
+  },
+  "C06": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "C07": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "C08": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "D01": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "D02": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "D03": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "D04": {
+    "tier1": "A",
+    "tier2": "A"
+  },
+  "D05": {
+    "tier1": "B",
+    "tier2": "B"
+  },
+  "D06": {
+    "tier1": "A",
+    "tier2": "B"
+  },
+  "D07": {
+    "tier1": "B",
+    "tier2": "A"
+  },
+  "D08": {
+    "tier1": "A",
+    "tier2": "A"
+  }
+}

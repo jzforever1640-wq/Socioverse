@@ -1,0 +1,10 @@
+{
+  "authorization_date": "2026-10-29",
+  "authorization": "Researcher explicitly requested bank and answer keys in current private repository; all repository readers can access",
+  "repository": "https://github.com/jzforever1640-wq/Socioverse",
+  "allowed_files": {
+    "studies/controlled_major/inputs/EJQ_forms_PRIVATE_DRAFT.jsonl": "3e0b15738543c2b1c05a9abb26be2d0e04fd2196542eb41c0b4afcb153975d1a",
+    "measurement/EJQ/ANSWER_KEYS.json": "2be081f22a1c5d4cfa20806dd0a08c9296898e9f68ab0ac7b1ec435a1277b271"
+  },
+  "raw_responses_and_individual_scores": "NOT_AUTHORIZED_FOR_UPLOAD"
+}

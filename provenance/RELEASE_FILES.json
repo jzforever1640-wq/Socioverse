@@ -16,28 +16,28 @@
   },
   {
     "path": ".gitignore",
-    "sha256": "d8b67324c8fcf30a2be25b186dd101b9aac8616cd4e1aa0bed7e621e4629ef27",
-    "bytes": 557
+    "sha256": "5ef62d06a5082fbdaa12187e135a0f2ba144d10896d656d53d043a970b98e123",
+    "bytes": 735
   },
   {
     "path": "CONTRIBUTING.md",
-    "sha256": "3ee9390fd84c4369d8395636557b4e46a28af81cb95ae5db92b0717bf76cd6dc",
-    "bytes": 1827
+    "sha256": "216ed7ecad883ceeb7e89862c27d4a316d9b68dd5da8745d60795d5b5aab25ae",
+    "bytes": 1938
   },
   {
     "path": "DECISION_LOG.md",
-    "sha256": "93c5e43f52b1ba9211d1cce7b23fe1a300d63b44a7d8439e1c43c9abc8f75d85",
-    "bytes": 2131
+    "sha256": "060ce6c140406a6e08bd1f222b90446dfdab0d493ff6f6ea2c95583ca75de7ce",
+    "bytes": 2535
   },
   {
     "path": "README.md",
-    "sha256": "c80c5320d669e84959ddfbddfc9d3f8c47c1e734a1706c8d3df9b24b7144ea4f",
-    "bytes": 3291
+    "sha256": "865eb759c9fdc8ed81c73446d4999948a8c33b58db516dfd0e49c827443cbc40",
+    "bytes": 3484
   },
   {
     "path": "RESEARCH_PROTOCOL.md",
-    "sha256": "413b4773ddd5400f18ee9f2c4d5c85a31ce749b72edaee9c329122fe54baff8d",
-    "bytes": 2224
+    "sha256": "395c9f5c0e5decc177241c26520e3fe67fb3f1f4e9b56d100c6cbac2ccdf9e6c",
+    "bytes": 2372
   },
   {
     "path": "RUN_REGISTRY.md",
@@ -71,13 +71,18 @@
   },
   {
     "path": "docs/EJQ_ACCESS.md",
-    "sha256": "323752940e08978fa7986ea7f392507cde16a72adf3219520552e74c6ae4d472",
-    "bytes": 895
+    "sha256": "b827b139999489af36107ab61c5d7631c6b969ce788068168c7ea00e9cb94b3b",
+    "bytes": 1011
+  },
+  {
+    "path": "docs/EJQ_UPLOAD_CHECK.json",
+    "sha256": "623572b3f0d9f09ba506c09de5b415b85aff51a308d0472d943bf0fab039010a",
+    "bytes": 510
   },
   {
     "path": "docs/GITHUB_SETUP.md",
-    "sha256": "906aa771dbd73c4afb593aa7a5525a29fc654d7f6315aee206258eb3de540ddf",
-    "bytes": 1972
+    "sha256": "50007ff98795ddb31c023e262f02711d85035a0b55d3246cb54e8f3cae63d91f",
+    "bytes": 2027
   },
   {
     "path": "docs/TEAM_LINKS.md",
@@ -205,9 +210,19 @@
     "bytes": 1727
   },
   {
+    "path": "measurement/EJQ/ANSWER_KEYS.json",
+    "sha256": "2be081f22a1c5d4cfa20806dd0a08c9296898e9f68ab0ac7b1ec435a1277b271",
+    "bytes": 1635
+  },
+  {
     "path": "provenance/A001_ORIGINAL_ASSETS.json",
     "sha256": "db86697d5b116585d00ca79846c48f4a5c3800fd8eb7b26390fe2c04927a3f8f",
     "bytes": 2172
+  },
+  {
+    "path": "provenance/EJQ_REPOSITORY_ACCESS.json",
+    "sha256": "236d1e8a919167f59b9d0378d884dd1adc3f5b05858cc38704ca2ce001ec834a",
+    "bytes": 587
   },
   {
     "path": "provenance/HISTORY_INDEX.json",
@@ -221,8 +236,8 @@
   },
   {
     "path": "provenance/TEAM_STUDY_ASSETS.json",
-    "sha256": "b9752efee031e2fe31cc9feca8b61bc9ebf4ba674a9005ab81f4da6f14928a0d",
-    "bytes": 4376
+    "sha256": "70e10758a2ec7401b7d588f1d16177a08ec7ab350c6da9bcdc47d6ab83f80293",
+    "bytes": 4511
   },
   {
     "path": "provenance/UPSTREAM.json",
@@ -350,6 +365,11 @@
     "bytes": 297
   },
   {
+    "path": "studies/controlled_major/inputs/EJQ_forms_PRIVATE_DRAFT.jsonl",
+    "sha256": "3e0b15738543c2b1c05a9abb26be2d0e04fd2196542eb41c0b4afcb153975d1a",
+    "bytes": 33254
+  },
+  {
     "path": "studies/controlled_major/inputs/phase17/config/experiment.json",
     "sha256": "6a657ef69352c68b444063ee1632a7d457bea94e1b02e5af3b48b56ec12bbcec",
     "bytes": 1380
@@ -441,8 +461,8 @@
   },
   {
     "path": "studies/controlled_major/scripts/private_bank.py",
-    "sha256": "5beefd089de6e94cd690510d6d83fa417ffeab724c49c6d83194611dc7cc6d70",
-    "bytes": 566
+    "sha256": "24ce7f4fe237fe256798a3523eb2ec48c07eb3174330b25c2c47e4b03708ed97",
+    "bytes": 647
   },
   {
     "path": "studies/controlled_major/scripts/private_llm_measurement.py",
@@ -486,13 +506,13 @@
   },
   {
     "path": "tools/review_export.py",
-    "sha256": "d39534bf2974cee140a3e1d7e17c23251e1793685408cdd44ef1e8cd23a2855b",
-    "bytes": 2100
+    "sha256": "613efb62d4121cead681e9f8b0d1cd9bea4be7e506da2e357e37137b1fc65876",
+    "bytes": 2482
   },
   {
     "path": "tools/team.py",
-    "sha256": "2b887333d6852e5b0be3b7a1261dc883d81a89ae7388403baa8489b5ba8e58b4",
-    "bytes": 8636
+    "sha256": "33b588e81e5c1ea7abc1210377166c97b039753d5d53fcc9b96e65f59b0e1082",
+    "bytes": 9064
   },
   {
     "path": "vendor/SocioVerse2/CITATION.cff",

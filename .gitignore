@@ -29,3 +29,7 @@ artifacts-local/
 **/*.pyc
 **/EJQ_forms_PRIVATE_DRAFT.jsonl
 **/ANSWER_KEYS.json
+
+# Explicit researcher-authorized instrument files in this private repository.
+!/studies/controlled_major/inputs/EJQ_forms_PRIVATE_DRAFT.jsonl
+!/measurement/EJQ/ANSWER_KEYS.json
