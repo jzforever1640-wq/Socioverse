@@ -2,7 +2,7 @@
 
 研究社会媒体信息、公共信息支持与同伴传播如何关联模拟考生的专业意愿，并描述 SES 异质性。24 名合成考生、固定网络、E1–E4 配对条件沿用现有研究，不代表真实考生总体。
 
-**团队私有仓库：[jzforever1640-wq/Socioverse](https://github.com/jzforever1640-wq/Socioverse)。P1 六卡正文已于2026-10-31批准；Pilot 和正式真实实验尚未运行。** A001 仅完成单时点组件诊断。scripted 数据仅供软件验证。最新版本先读 [当前六卡研究方案](docs/CURRENT_SIX_CARD_STUDY.md) 和 [待审核事项](docs/PENDING_REVIEW.md)。审批记录见 DECISION_LOG.md。
+**团队私有仓库：[jzforever1640-wq/Socioverse](https://github.com/jzforever1640-wq/Socioverse)。P1 六卡正文已于2026-10-31批准；原六人Pilot待执行方案已被当前24人配对实验取代；当前执行进度与费用待原始日志核验。** A001 仅完成单时点组件诊断。scripted 数据仅供软件验证。最新版本先读 [当前六卡研究方案](docs/CURRENT_SIX_CARD_STUDY.md) 和 [待审核事项](docs/PENDING_REVIEW.md)。审批记录见 DECISION_LOG.md。Q1有条件批准、Q2通过、Q4已取代、Q5待当前运行审计；本次不重跑或干预实验。
 
 ## 快速开始（Python 3.12）
 

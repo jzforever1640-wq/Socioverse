@@ -1,6 +1,6 @@
 # 决策与批准记录
 
-当前：2026-10-31研究者已批准P1六卡正文（MAT-P1-20261031-01）；当前待审清单见 docs/PENDING_REVIEW.md。下表为此前历史记录，不覆盖此新增决定。原证据见 docs/history；未记录具名签署的地方不补造姓名或日期。
+当前治理状态：Q1 APPROVE_WITH_CHANGES、Q2 APPROVE、Q4 SUPERSEDED、Q5 PENDING_CURRENT_RUN_AUDIT，详见 approvals/REVIEW_Q1_Q2_Q4_Q5_20261031.json。六卡正文批准仍有效。下表及先前记录保留其历史时点含义；当前24人实验状态不能由旧记录推定。
 
 |记录|现有状态|证据/边界|
 |---|---|---|
@@ -15,7 +15,7 @@
 |预算上界证明|DEFERRED_BY_RESEARCHER|receipt；不将费用估计称作上界|
 |团队 GitHub 仓库与权限|待研究者确认方案|docs/GITHUB_SETUP.md；无远端操作|
 
-当前未决仅以 docs/PENDING_REVIEW.md 为准：EJQ辅助报告口径、正式shock参照、六人Pilot范围、具体模型预算及工程验收。六卡正文批准完成；分析配置的材料引用已同步六卡。来源限制沿用既定政策，不重复列为待批准条件。
+当前待核验：最新题库与辅助分类、S1独立理解评价、24人实际运行身份/分支状态，以及当前模型、usage、费用、预算和重试策略。Q2及原六人Pilot不再列为待批准事项。
 
 新增记录格式：decision_id、提出人、研究批准人、批准时间（时区）、scope、status、旧/新材料与协议 hash、PR链接、批准证据、是否授权真实运行。没有批准证据则保持 PENDING。
 
@@ -30,3 +30,9 @@
 ## 2026-10-31 · MAT-P1-20261031-01
 
 研究者明确表示“目前我觉得六卡已经可以审批通过 可以在GitHub上更新状态”。批准当前P101–P106原文，hash绑定见 approvals/P1_SIX_CARD_20261031.json；未修改字句。不扩大为EJQ修订、来源历史真实性、协议整体冻结或真实付费运行批准。最新方案统一入口为 docs/CURRENT_SIX_CARD_STUDY.md，当前未决事项为 docs/PENDING_REVIEW.md。
+
+## 2026-10-31 · REVIEW-Q1-Q2-Q4-Q5-20261031
+
+依据研究者本聊天明确决定：Q1为APPROVE_WITH_CHANGES，保留EJQ 0–16及原四维结构，辅助分类与最终题库未冻结，S1理解评价独立；Q2为APPROVE，正式仅E1–E4，无shock参照不增加，T0→T1仅描述；Q4为SUPERSEDED，取消原六人Pilot待审批执行方案，按当前24人实际配对执行；Q5为PENDING_CURRENT_RUN_AUDIT，19次/42元/零重试仅属历史Pilot A，当前参数须原日志核验。
+
+本次只改治理状态和协议引用；未重启已完成臂、未干预正在运行或待恢复实验，未修改冻结输入、运行配置、主评分或已有结果，未新增付费调用或重试。历史文稿快照见 docs/history/approval_review/pre_Q_decisions_20261031/。只读审计缺口见 docs/Q5_CURRENT_RUN_AUDIT.md。

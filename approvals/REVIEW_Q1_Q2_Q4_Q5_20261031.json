@@ -1,0 +1,72 @@
+{
+  "decision_id": "REVIEW-Q1-Q2-Q4-Q5-20261031",
+  "date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "authority": "Researcher explicit decisions in current chat",
+  "scope": "Approval status and protocol/document references only; no active run/input/result changes",
+  "Q1": {
+    "status": "APPROVE_WITH_CHANGES",
+    "ejq_total": [
+      0,
+      16
+    ],
+    "four_dimension_structure": "RETAIN",
+    "auxiliary_categories_to_verify": [
+      "direct_application",
+      "near_transfer",
+      "independent_transfer",
+      "quantitative_operations"
+    ],
+    "auxiliary_mapping": "PENDING_LATEST_BANK_VERIFICATION",
+    "independent_transfer_exists": "NOT_ESTABLISHED_DO_NOT_FORCE_CLASSIFICATION",
+    "s1_understanding": "SEPARATE_FROM_EJQ",
+    "final_bank_frozen": false,
+    "classification_frozen": false,
+    "primary_scoring_changed": false
+  },
+  "Q2": {
+    "status": "APPROVE",
+    "formal_arms": [
+      "E1",
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "no_shock_control": false,
+    "estimate_s1_independent_causal_effect": false,
+    "t0_t1_analysis": "DESCRIPTIVE_ONLY"
+  },
+  "Q4": {
+    "status": "SUPERSEDED",
+    "original_six_agent_pilot": "CANCEL_PENDING_EXECUTION_PLAN_KEEP_HISTORY",
+    "current_plan": "Actual current 24-agent paired execution; audit actual run artifacts",
+    "restart_completed_branches": false,
+    "interrupt_running_or_recoverable_runs": false,
+    "scripted_test_only_formal_eligible": false
+  },
+  "Q5": {
+    "status": "PENDING_CURRENT_RUN_AUDIT",
+    "historical_pilot_A_only": {
+      "calls_limit": 19,
+      "budget_cny": 42,
+      "retries": 0,
+      "not_current_run_parameters": true
+    },
+    "current_run_model": null,
+    "current_run_provider": null,
+    "current_run_calls": null,
+    "current_run_input_tokens": null,
+    "current_run_output_tokens": null,
+    "current_run_cost": null,
+    "current_run_budget_limit": null,
+    "current_run_retry_policy": null,
+    "missing_reason": "Current 24-agent primary run ledger not found in inspected local sources; hosted/current run export required",
+    "additional_paid_calls_authorized_this_update": false,
+    "budget_change_authorized_this_update": false,
+    "automatic_retry_authorized_this_update": false
+  },
+  "runtime_configs_modified": false,
+  "frozen_inputs_modified": false,
+  "existing_results_modified": false,
+  "approval_record_is_runtime_config": false
+}

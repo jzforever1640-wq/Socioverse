@@ -26,28 +26,38 @@
   },
   {
     "path": "DECISION_LOG.md",
-    "sha256": "da318b922e392488f63196e361e0460f3de59ef7e28ed193d38cd9bc55d99d30",
-    "bytes": 3132
+    "sha256": "4cc58239fa1dbb4efe4e4eaf73046cc189fab626cb44c3057ae706125d2d6b27",
+    "bytes": 3927
   },
   {
     "path": "README.md",
-    "sha256": "59478282ac82a44daeba84bee051262ae3f1c09bb27ac35346807dedcbebac86",
-    "bytes": 3702
+    "sha256": "5ec3febe9223080f25d38ee2a8fde80190716f67b773e041f658ec7401256fe7",
+    "bytes": 3882
   },
   {
     "path": "RESEARCH_PROTOCOL.md",
-    "sha256": "c88ee94791f29a7423d4c0c6ef131464ddc975c0510b8a25f2f5d376ae1cee77",
-    "bytes": 2494
+    "sha256": "78d532b5fecddf2fb06177fbb6e46bd4cfdb7ef728ea035921016751a31903e4",
+    "bytes": 3535
   },
   {
     "path": "RUN_REGISTRY.md",
-    "sha256": "a8d15d5809ca9f61b76b5dd98b06eb4515c4d375b0cc115c2b0622ec5aba5b30",
-    "bytes": 4545
+    "sha256": "50dfa788055f0dc18ff31e662816ac88cde5f955ebafa77c78d44fcf648d4a37",
+    "bytes": 4911
   },
   {
     "path": "approvals/P1_SIX_CARD_20261031.json",
     "sha256": "383727c3c91c5e44e533c99ea51af6fed8158c9f56971d7ff4274b970eb44767",
     "bytes": 2282
+  },
+  {
+    "path": "approvals/REVIEW_Q1_Q2_Q4_Q5_20261031.json",
+    "sha256": "1dd135936c18772134abeddfa09875e50e2be2c59c109fac25ed828ed211e0a6",
+    "bytes": 2398
+  },
+  {
+    "path": "approvals/REVIEW_UPDATE_CHECK_20261031.json",
+    "sha256": "a41e109f532448845ef7ec1045d1bedd0a9410a8d441e746d4d12c8775f783ea",
+    "bytes": 11795
   },
   {
     "path": "configs/experimental/README.md",
@@ -76,8 +86,8 @@
   },
   {
     "path": "docs/CURRENT_SIX_CARD_STUDY.md",
-    "sha256": "74a64661dee77462cf8cd1da35ea3bcb6666669e9f70f65ed3b2ee8de878cdce",
-    "bytes": 12099
+    "sha256": "7e68c66ae44aff9348f672ef4fe5c5417bf76a9fd745b2cde1c2e487c62704b0",
+    "bytes": 12766
   },
   {
     "path": "docs/EJQ_ACCESS.md",
@@ -101,13 +111,33 @@
   },
   {
     "path": "docs/PENDING_REVIEW.md",
-    "sha256": "e39996f5d3f330d854ea88878f28f9acaf7ddf98b3c336860f90546c9458e878",
-    "bytes": 2750
+    "sha256": "10dc90560a76d3639d1aaf768d57dacfb2f01fb045dbb621bca7f6d5f4e712e8",
+    "bytes": 2678
+  },
+  {
+    "path": "docs/Q5_CURRENT_RUN_AUDIT.md",
+    "sha256": "8fdb34e2ad43a75389c4f194b588f42df114d818384c2c9df7e42bdf4592a3e8",
+    "bytes": 2072
   },
   {
     "path": "docs/TEAM_LINKS.md",
     "sha256": "836300c41f40216a4fd9038451c9708f5d6cd300236996a045440bada27adfd3",
     "bytes": 322
+  },
+  {
+    "path": "docs/history/approval_review/pre_Q_decisions_20261031/RESEARCH_PROTOCOL.md",
+    "sha256": "c88ee94791f29a7423d4c0c6ef131464ddc975c0510b8a25f2f5d376ae1cee77",
+    "bytes": 2494
+  },
+  {
+    "path": "docs/history/approval_review/pre_Q_decisions_20261031/docs/CURRENT_SIX_CARD_STUDY.md",
+    "sha256": "74a64661dee77462cf8cd1da35ea3bcb6666669e9f70f65ed3b2ee8de878cdce",
+    "bytes": 12099
+  },
+  {
+    "path": "docs/history/approval_review/pre_Q_decisions_20261031/docs/PENDING_REVIEW.md",
+    "sha256": "e39996f5d3f330d854ea88878f28f9acaf7ddf98b3c336860f90546c9458e878",
+    "bytes": 2750
   },
   {
     "path": "docs/history/p1-six/EJQ_REVIEW_WITHHELD.md",

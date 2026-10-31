@@ -1,3 +1,5 @@
+> 2026-10-31更新：以下为已保存历史工件登记。当前24人实验的正式分支进度、模型和费用仍待原始日志审计，不能把本地未登记视为尚未运行。原六人Pilot待执行方案已SUPERSEDED；SCRIPTED/TEST_ONLY不得计入正式运行。详见 docs/Q5_CURRENT_RUN_AUDIT.md。本轮不改历史机器登记或任何结果。
+
 # 运行登记
 
 机器记录见 shared/RUN_REGISTRY.json，材料 hash 绑定实际六卡，代码按文件 hash 追溯，不能将本团队新提交当作旧运行 commit。
