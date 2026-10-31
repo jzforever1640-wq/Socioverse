@@ -3,5 +3,11 @@
   "payloads": "materials/payloads_P1_6CARD_DRAFT.json",
   "source_ledger": "materials/source_ledger_P1_6CARD_DRAFT.json",
   "frozen": false,
-  "real_llm_authorized": false
+  "real_llm_authorized": false,
+  "p1_approval_status": "APPROVED",
+  "p1_text_frozen": true,
+  "approval_version": "P1-6CARD-v0.2-APPROVED-20261031",
+  "approval_record": "approvals/P1_SIX_CARD_20261031.json",
+  "approval_id": "MAT-P1-20261031-01",
+  "approval_payload_sha256": "53f98a034ee268eea9e3b954df9263ec39d17d4fafc884a88b53a07a569361d4"
 }

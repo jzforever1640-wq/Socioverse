@@ -2,7 +2,7 @@
 
 研究社会媒体信息、公共信息支持与同伴传播如何关联模拟考生的专业意愿，并描述 SES 异质性。24 名合成考生、固定网络、E1–E4 配对条件沿用现有研究，不代表真实考生总体。
 
-**团队私有仓库：[jzforever1640-wq/Socioverse](https://github.com/jzforever1640-wq/Socioverse)。P1 六卡未最终批准；Pilot 和正式真实实验尚未运行。** A001 仅完成单时点组件诊断。scripted 数据仅供软件验证。先读 RESEARCH_PROTOCOL.md、DECISION_LOG.md。
+**团队私有仓库：[jzforever1640-wq/Socioverse](https://github.com/jzforever1640-wq/Socioverse)。P1 六卡正文已于2026-10-31批准；Pilot 和正式真实实验尚未运行。** A001 仅完成单时点组件诊断。scripted 数据仅供软件验证。最新版本先读 [当前六卡研究方案](docs/CURRENT_SIX_CARD_STUDY.md) 和 [待审核事项](docs/PENDING_REVIEW.md)。审批记录见 DECISION_LOG.md。
 
 ## 快速开始（Python 3.12）
 
@@ -13,6 +13,8 @@ python3 -m venv .venv
 .venv/bin/python tools/team.py analyze
 .venv/bin/python tools/team.py report --out artifacts-local/report.html
 ```
+
+`docs/history/` 与共享结果报告保留生成时状态，不作为当前审批入口。
 
 打开 `reports/research_report.html` 可直接离线阅读现有结果，无需安装、密钥、服务或联网。重新生成使用保存 JSON，绝不调用模型。`test` 在临时新目录执行原四臂 scripted 运行器并逐行比对已保存 panel；主动阻断网络连接。默认不执行原 `test_phase18.py`（它包含需要受限题库的检查）。`tools/team.py scripted --out runs/my-unique-run` 可运行独立无费用验证，目录已存在则拒绝覆盖。
 

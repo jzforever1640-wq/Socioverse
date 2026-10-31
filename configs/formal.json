@@ -9,5 +9,7 @@
     20271003
   ],
   "agents": 24,
-  "active_config": "studies/controlled_major/config/active_materials.json"
+  "active_config": "studies/controlled_major/config/active_materials.json",
+  "p1_approval_status": "APPROVED",
+  "p1_approval_id": "MAT-P1-20261031-01"
 }

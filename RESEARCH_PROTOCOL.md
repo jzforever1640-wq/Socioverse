@@ -1,6 +1,6 @@
 # 已确定的协议与冻结边界
 
-本文件整理现有研究，不重新设计实验。权威原配置保存在 Study inputs/config、config 和 docs/history；方法批准、逐字材料批准、软件验收和真实调用授权分别记录。
+当前完整六卡方案见 [CURRENT_SIX_CARD_STUDY.md](docs/CURRENT_SIX_CARD_STUDY.md)，待审核事项见 [PENDING_REVIEW.md](docs/PENDING_REVIEW.md)。本文件整理现有研究，不重新设计实验。权威原配置保存在 Study inputs/config、config 和 docs/history；方法批准、逐字材料批准、软件验收和真实调用授权分别记录。
 
 |条件|公共 P1 支持|动态同伴反馈|
 |---|---|---|
@@ -15,6 +15,6 @@
 
 私有只读 sidecar 测量不得进入行为 Action、AgentMemory 或后续同伴上下文；意愿与风险不传入 EJQ 请求；EJQ 请求无答案键。两层原评分保留，辅助维度仍 proposed。研究者已授权将原题库与答案键共享给当前私有仓库所有读取者；默认从仓库内加载并校验原hash。此访问授权不改变评分、行为隔离或真实运行审批。
 
-当前材料 P1-6CARD-v0.2-DRAFT-20261028 是六卡候选，不是冻结版本。旧 analysis_protocol_DRAFT.json 内 materials_version 仍写三卡版本；此不一致保留为历史元数据，不覆盖它，运行须以 active_materials 与实际资产 hash 明确绑定六卡。所有源文本截止规则 2026-10-24 23:59 UTC+8，事后取回不能证明历史字节。
+P1六卡正文于2026-10-31获研究者批准，审批编号 MAT-P1-20261031-01，审批版本 P1-6CARD-v0.2-APPROVED-20261031。批准绑定原载荷及六卡内容hash，文本字节不改。源载荷版本ID保留以维护历史运行可比性；其旧pending字段为历史快照，当前审批以 approvals/P1_SIX_CARD_20261031.json 为准。analysis_protocol材料引用已同步当前六卡来源版本。
 
-正式运行仍待材料逐字批准、测量与完整运行器验收、无 shock 参照决定、指定模型/预算与授权。12288/1000 已不能覆盖已知合法压力案例；40960/8192 只是提案，不自动采用。模型别名并非不可变快照。A001 组件成功不能代替六人 Pilot、四臂或正式批准。
+真实运行仍待测量辅助报告口径、正式shock参照决定、Pilot范围、指定模型预算及端到端工程验收，详见当前待审核清单。所有real_llm/paid授权保持false；不因正文批准自动采用预算提案或启动运行。

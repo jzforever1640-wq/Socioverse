@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-31",
+  "decision_id": "MAT-P1-20261031-01",
+  "approved_cards": 6,
+  "payload_sha256_unchanged": "53f98a034ee268eea9e3b954df9263ec39d17d4fafc884a88b53a07a569361d4",
+  "card_visible_hashes_verified": true,
+  "scripted_regression": "PASS_576_PANEL_ROWS_EXACT",
+  "api_calls": 0,
+  "real_run_authorized": false,
+  "history_and_saved_results": "UNCHANGED"
+}

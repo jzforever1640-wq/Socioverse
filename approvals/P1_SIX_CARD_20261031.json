@@ -1,0 +1,52 @@
+{
+  "decision_id": "MAT-P1-20261031-01",
+  "date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "approved_by": "Researcher in this chat (name not inferred)",
+  "evidence_quote": "目前我觉得六卡已经可以审批通过 可以在GitHub上更新状态",
+  "scope": "P1 six-card current verbatim texts P101–P106 only",
+  "status": "APPROVED",
+  "approval_version": "P1-6CARD-v0.2-APPROVED-20261031",
+  "source_material_version": "P1-6CARD-v0.2-DRAFT-20261028",
+  "payload_path": "studies/controlled_major/materials/payloads_P1_6CARD_DRAFT.json",
+  "payload_sha256": "53f98a034ee268eea9e3b954df9263ec39d17d4fafc884a88b53a07a569361d4",
+  "source_ledger_sha256": "66e400cdaac779cb2a6b33a769a953df4589b9b42e33421f42a68d3ca87be241",
+  "approved_cards": [
+    {
+      "id": "PUB:P101",
+      "title": "AI编程工具能提高多少开发效率？",
+      "content_sha256": "65d322570482bb656eed7083527d069f92b944bc43089db4ace6aa8191fbbeb8"
+    },
+    {
+      "id": "PUB:P102",
+      "title": "AI影响就业：哪些现象已经被观察到？",
+      "content_sha256": "145d0f78ad0e1c21d7c1f47b84c2c5301fc82a53c6d4dbecba266177f05063d3"
+    },
+    {
+      "id": "PUB:P103",
+      "title": "计算机科学与技术：设计与理解计算系统",
+      "content_sha256": "5371e2ea60cae9ebb0d9493019acc2af56cf14eb07d88a2bd81491c277bdf3d8"
+    },
+    {
+      "id": "PUB:P104",
+      "title": "自动化：感知、决策与控制实际系统",
+      "content_sha256": "01647f7701369e57bf4a5838419c3be1a37c1aa8fb5c7a3b535fa146f8077b3c"
+    },
+    {
+      "id": "PUB:P105",
+      "title": "电气工程及其自动化：电能与电气系统",
+      "content_sha256": "0ce780cfbf190a20f580215547d1790802545b9e6b8a5b45bd0f1bfa26d6ec0b"
+    },
+    {
+      "id": "PUB:P106",
+      "title": "统计学：利用数据进行推断与决策分析",
+      "content_sha256": "92a4f7ce061c51561c244e2afe34a9139f7978357430864eae1901c99b1985e4"
+    }
+  ],
+  "payload_bytes_changed": false,
+  "protocol_frozen": false,
+  "real_llm_authorized": false,
+  "paid_authorized": false,
+  "historical_source_verification_approved": false,
+  "interpretation": "Approval supersedes pending P1 text status in immutable source payload metadata; no approval of new measurements or paid execution is inferred"
+}

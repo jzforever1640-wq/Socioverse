@@ -26,23 +26,28 @@
   },
   {
     "path": "DECISION_LOG.md",
-    "sha256": "060ce6c140406a6e08bd1f222b90446dfdab0d493ff6f6ea2c95583ca75de7ce",
-    "bytes": 2535
+    "sha256": "da318b922e392488f63196e361e0460f3de59ef7e28ed193d38cd9bc55d99d30",
+    "bytes": 3132
   },
   {
     "path": "README.md",
-    "sha256": "865eb759c9fdc8ed81c73446d4999948a8c33b58db516dfd0e49c827443cbc40",
-    "bytes": 3484
+    "sha256": "59478282ac82a44daeba84bee051262ae3f1c09bb27ac35346807dedcbebac86",
+    "bytes": 3702
   },
   {
     "path": "RESEARCH_PROTOCOL.md",
-    "sha256": "395c9f5c0e5decc177241c26520e3fe67fb3f1f4e9b56d100c6cbac2ccdf9e6c",
-    "bytes": 2372
+    "sha256": "c88ee94791f29a7423d4c0c6ef131464ddc975c0510b8a25f2f5d376ae1cee77",
+    "bytes": 2494
   },
   {
     "path": "RUN_REGISTRY.md",
     "sha256": "a8d15d5809ca9f61b76b5dd98b06eb4515c4d375b0cc115c2b0622ec5aba5b30",
     "bytes": 4545
+  },
+  {
+    "path": "approvals/P1_SIX_CARD_20261031.json",
+    "sha256": "383727c3c91c5e44e533c99ea51af6fed8158c9f56971d7ff4274b970eb44767",
+    "bytes": 2282
   },
   {
     "path": "configs/experimental/README.md",
@@ -51,13 +56,13 @@
   },
   {
     "path": "configs/formal.json",
-    "sha256": "4121a389b5513255efd1c24db228e5e3d07f6e4e68678239da51ef44f1f86922",
-    "bytes": 282
+    "sha256": "e90d38423cbf9004273596748500693b496bdd7c4804ac06f3195cbe1c12fd33",
+    "bytes": 360
   },
   {
     "path": "configs/pilot.json",
-    "sha256": "f506bdd2e8920d2f738a2e41d523aecdb77490a4a57a754a6556a308c0d7cd14",
-    "bytes": 173
+    "sha256": "2f54e722555ccbda018a190968c7b0e3afc8ac4669c098540b1208105cbcb185",
+    "bytes": 251
   },
   {
     "path": "docs/ACCEPTANCE.json",
@@ -68,6 +73,11 @@
     "path": "docs/ACCEPTANCE.md",
     "sha256": "a0f3f0776e553576552542db3f408ad535109c9653b0dd9b2576a9b45559583c",
     "bytes": 2892
+  },
+  {
+    "path": "docs/CURRENT_SIX_CARD_STUDY.md",
+    "sha256": "74a64661dee77462cf8cd1da35ea3bcb6666669e9f70f65ed3b2ee8de878cdce",
+    "bytes": 12099
   },
   {
     "path": "docs/EJQ_ACCESS.md",
@@ -83,6 +93,16 @@
     "path": "docs/GITHUB_SETUP.md",
     "sha256": "50007ff98795ddb31c023e262f02711d85035a0b55d3246cb54e8f3cae63d91f",
     "bytes": 2027
+  },
+  {
+    "path": "docs/P1_APPROVAL_CHECK.json",
+    "sha256": "9a495b0ba63a3f0715af3af04c306784312a880e6dc2c9c5041d767a6386d008",
+    "bytes": 375
+  },
+  {
+    "path": "docs/PENDING_REVIEW.md",
+    "sha256": "e39996f5d3f330d854ea88878f28f9acaf7ddf98b3c336860f90546c9458e878",
+    "bytes": 2750
   },
   {
     "path": "docs/TEAM_LINKS.md",
@@ -236,7 +256,7 @@
   },
   {
     "path": "provenance/TEAM_STUDY_ASSETS.json",
-    "sha256": "70e10758a2ec7401b7d588f1d16177a08ec7ab350c6da9bcdc47d6ab83f80293",
+    "sha256": "1a3885e09462aee643c399bffac844e349fdc85af00bf8f6352da727d6a0ac58",
     "bytes": 4511
   },
   {
@@ -321,13 +341,13 @@
   },
   {
     "path": "studies/controlled_major/config/active_materials.json",
-    "sha256": "cca81f960cee869934a78b35b3210c5dcdcea6bbc75833612ce8e106f9498a73",
-    "bytes": 221
+    "sha256": "092f3fa2d192a7dd7ee7c5b24d64d0d12d2132182962e3b20fcdc03f04a42bb8",
+    "bytes": 536
   },
   {
     "path": "studies/controlled_major/config/analysis_protocol_DRAFT.json",
-    "sha256": "a2916a9791d35b7e46ac4e34c160e7262b638117c4401553ba21cd5feb6c8e46",
-    "bytes": 3146
+    "sha256": "e72d625b2046072447a287de39f82663ff078dc98617852762be11218ba45872",
+    "bytes": 3193
   },
   {
     "path": "studies/controlled_major/config/context_budget_proposal_FINAL.json",
@@ -346,8 +366,8 @@
   },
   {
     "path": "studies/controlled_major/config/pilot_DRAFT.json",
-    "sha256": "3e42702709cd4d7aaeb0e6a8d9dd5ea1819870dc8edb5f83141266f831fab45a",
-    "bytes": 2456
+    "sha256": "6c9e6844189a74c62a910952c70652d15d519cb8ceb89417b15a912749d9b3af",
+    "bytes": 2526
   },
   {
     "path": "studies/controlled_major/config/pilot_review_template.json",

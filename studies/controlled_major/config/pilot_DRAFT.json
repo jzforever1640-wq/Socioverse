@@ -75,5 +75,7 @@
   "fixed_social_card_limit": 220,
   "model_selection_status": "USER_CONFIRMED_NOT_SELECTED",
   "context_validation_status": "12288_FAILS_LEGAL_STRESS_CASES_MODEL_NOT_SELECTED",
-  "output_validation_status": "1000_INSUFFICIENT_FOR_SOME_SCHEMA_VALID_RESPONSES"
+  "output_validation_status": "1000_INSUFFICIENT_FOR_SOME_SCHEMA_VALID_RESPONSES",
+  "p1_text_approved": true,
+  "p1_approval_id": "MAT-P1-20261031-01"
 }

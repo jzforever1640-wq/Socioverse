@@ -1,14 +1,15 @@
 {
   "studies/controlled_major/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "studies/controlled_major/config/active_materials.json": "cca81f960cee869934a78b35b3210c5dcdcea6bbc75833612ce8e106f9498a73",
-  "studies/controlled_major/config/analysis_protocol_DRAFT.json": "a2916a9791d35b7e46ac4e34c160e7262b638117c4401553ba21cd5feb6c8e46",
+  "studies/controlled_major/config/active_materials.json": "092f3fa2d192a7dd7ee7c5b24d64d0d12d2132182962e3b20fcdc03f04a42bb8",
+  "studies/controlled_major/config/analysis_protocol_DRAFT.json": "e72d625b2046072447a287de39f82663ff078dc98617852762be11218ba45872",
   "studies/controlled_major/config/context_budget_proposal_FINAL.json": "816c5782c6c32b9cce35f0274ea268b363599be7a89c57b4cf176c74ec7dd5d7",
   "studies/controlled_major/config/go_no_go_B_FINAL.json": "a34890bed724d911e6baede8438c266c72b9392b6257e9ca2f08c2e444e7614e",
   "studies/controlled_major/config/live_dependency_precheck.json": "78c382cce46f7fbc1e244ca2a04689f3e5450dae97d61be61e0a021d5b4ed861",
-  "studies/controlled_major/config/pilot_DRAFT.json": "3e42702709cd4d7aaeb0e6a8d9dd5ea1819870dc8edb5f83141266f831fab45a",
+  "studies/controlled_major/config/pilot_DRAFT.json": "6c9e6844189a74c62a910952c70652d15d519cb8ceb89417b15a912749d9b3af",
   "studies/controlled_major/config/pilot_review_template.json": "e82c902cc82524383e9ed63898f2739d1ee87a10f493d0ad82caa024ed6c2cfa",
   "studies/controlled_major/config/prompt_budget_P1_DRAFT.json": "4b3af60528a839bb6f963a9034be1f9e9dea58caf33c018d491db23b867080fa",
   "studies/controlled_major/config/version_history.json": "4708b6a60e50d61203b3c509433736a88d820c0a2afadfeb373bbdffa0a680b2",
+  "studies/controlled_major/inputs/EJQ_forms_PRIVATE_DRAFT.jsonl": "3e0b15738543c2b1c05a9abb26be2d0e04fd2196542eb41c0b4afcb153975d1a",
   "studies/controlled_major/inputs/phase17/config/experiment.json": "6a657ef69352c68b444063ee1632a7d457bea94e1b02e5af3b48b56ec12bbcec",
   "studies/controlled_major/inputs/phase17/config/scenario.json": "fe1f74704dcdd896b000b7b70c8a6c3eee7dc4119f1ac7e3e49dcac168b2f2d5",
   "studies/controlled_major/inputs/phase17/population/network_20271001.json": "49424afb2e8801b7abb02d71b7343fa1fc68faa57784c14b95a5a0ee7d247da3",
@@ -31,6 +32,5 @@
   "studies/controlled_major/scripts/private_llm_measurement.py": "c54d7bb146dacbb8dead6c6c063bc44a0557228805eb999e474823c5927bd5b4",
   "studies/controlled_major/scripts/run_native_scripted.py": "5619b3b74e5b3b26806cf104ee6b1bd0edf671ff7d3d9ae547052136d9be5990",
   "studies/controlled_major/scripts/setup_scripted.sh": "2c847b8334fa87853520f2da6d7c75fb55114ddda2106c414d8687801db7fac9",
-  "studies/controlled_major/scripts/test_phase18.py": "8958da96c7b4044d9e63e7ac7a0c5a40ba240d9c6e87fea4c1c3b90b34a9a6dc",
-  "studies/controlled_major/inputs/EJQ_forms_PRIVATE_DRAFT.jsonl": "3e0b15738543c2b1c05a9abb26be2d0e04fd2196542eb41c0b4afcb153975d1a"
+  "studies/controlled_major/scripts/test_phase18.py": "8958da96c7b4044d9e63e7ac7a0c5a40ba240d9c6e87fea4c1c3b90b34a9a6dc"
 }

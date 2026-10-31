@@ -60,7 +60,7 @@
   },
   "real_llm_authorized": false,
   "research_design_frozen": false,
-  "materials_version": "1.8B-MAT-v0.3-CANDIDATE",
+  "materials_version": "P1-6CARD-v0.2-DRAFT-20261028",
   "support_estimand": "P1 additional support vs no additional support",
   "unseparated_components": [
     "additional_information_quantity",
@@ -74,5 +74,6 @@
     "(E4-E2)-(E3-E1)"
   ],
   "interaction_is_not_causal_mediation": true,
-  "ejq_construct": "AI Coding domain evidence-judgment task performance; near transfer included; general critical thinking not validated"
+  "ejq_construct": "AI Coding domain evidence-judgment task performance; near transfer included; general critical thinking not validated",
+  "p1_approval_id": "MAT-P1-20261031-01"
 }

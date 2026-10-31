@@ -2,5 +2,7 @@
   "mode": "pilot",
   "status": "NOT_RUN_REQUIRES_SEPARATE_AUTHORIZATION",
   "real_llm_authorized": false,
-  "source": "studies/controlled_major/config/pilot_DRAFT.json"
+  "source": "studies/controlled_major/config/pilot_DRAFT.json",
+  "p1_approval_status": "APPROVED",
+  "p1_approval_id": "MAT-P1-20261031-01"
 }
